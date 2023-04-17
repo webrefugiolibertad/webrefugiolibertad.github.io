@@ -1,6 +1,6 @@
 ---
 title: 'Espacios Verdes y Grupo de Energía Solar'
-description: 'El Equipo de Infraestructura Digital de Traut está formado por Germán Ferrero, Joaquín Godoy y Marcela Juarez.' 
+description: 'Relevamiento de la cátedra de espacios verdes y del grupo de energía solar (UNRC) en el Refugio Libertad'
 date: 2023-03-30
 ---
 
