@@ -1,6 +1,6 @@
 ---
 title: 'Espacios Verdes y Grupo de Energía Solar'
-description: 'Relevamiento de la cátedra de espacios verdes y del grupo de energía solar (UNRC) en el Refugio Libertad'
+description: 'Relevamiento de la cátedra de espacios verdes y del grupo de energía solar (UNRC) en el Refugio Libertad.'
 date: 2023-03-30
 ---
 
