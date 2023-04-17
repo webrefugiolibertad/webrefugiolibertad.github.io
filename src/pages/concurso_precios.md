@@ -1,8 +1,8 @@
 ---
-title: Quienes Somos 
+title: Concurso de Precios
 seo:
   title: Refugio Libertad
-permalink: /quienes_somos/index.html
+permalink: /concurso_precios/index.html
 description: 'Una experiencia de Tierra, Techo, Trabajo y Conectividad.'
 layout: page
 ---
