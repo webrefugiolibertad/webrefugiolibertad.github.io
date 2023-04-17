@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://localhost:8080/">
+  <title>Refugio Libertad</title>
+  <subtitle>Trabajadores Unidos por la Tierra. Refugio Libertad - Una experiencia de Tierra, Techo y Trabajo.</subtitle>
+  <link href="http://localhost:8080/feed.xml" rel="self" />
+  <link href="http://localhost:8080/" />
+  
+  <updated>2023-03-30T00:00:00Z</updated>
+  <id>http://localhost:8080/</id>
+  <author>
+    <name>dbellomo</name>
+    <email>tjd8n42b@duck.com</email>
+  </author>
+  <entry>
+    <title>Espacios Verdes y Grupo de Energía Solar</title>
+    <link href="http://localhost:8080/blog/espacios-verdes-y-grupo-de-energia-solar/" />
+    <updated>2023-03-30T00:00:00Z</updated>
+    <id>http://localhost:8080/blog/espacios-verdes-y-grupo-de-energia-solar/</id>
+    <content
+      xml:lang=""
+      type="html"
+      >&lt;h1 id=&quot;relevamiento-en-el-refugio-libertad-por-parte-de-integrantes-de-la-catedra-de-espacios-verdes-facultad-de-agronomia-y-veterinaria-y-del-grupo-de-energia-solar-facultad-de-ingenieria&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/espacios-verdes-y-grupo-de-energia-solar/#relevamiento-en-el-refugio-libertad-por-parte-de-integrantes-de-la-catedra-de-espacios-verdes-facultad-de-agronomia-y-veterinaria-y-del-grupo-de-energia-solar-facultad-de-ingenieria&quot;&gt;Relevamiento en el Refugio Libertad por parte de integrantes de la cátedra de Espacios Verdes (Facultad de Agronomía y Veterinaria) y del Grupo de Energía Solar (Facultad de Ingeniería)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/jI7PmEj.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;El jueves pasado realizamos un recorrido por el predio del Refugio Libertad con Ana Gisela Brandana, ingeniera agrónoma especialista en el ordenamiento de espacios verdes, y Fabián Romero, ingeniero quimico especialista en arquitectura bioclimatica, ambos de la Universidad Nacional de Rio Cuarto.&lt;/p&gt;
+&lt;p&gt;El objetivo del recorrido era doble: por un lado, con Fabián estudiamos las posibilidades de ubicacion y diseño del datacenter; y por otro, con Gisela recorrimos los espacios verdes, teniendo en cuenta las actividades que planificamos realizar en el predio, para diseñar el espacio abierto sacando el mejor provecho del arbolado. El recorrido fue el inicio de un vinculo que promete crecer en un convenio con la UNRC.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ioIs8BM.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/bidzDDA.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Se realizó un relevamiento, observando las construcciones y la vegetación existente.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/hvdgbzZ.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/F4r8kSl.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/47wtfTf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;La arquitecta y Coordinadora de obras del Refugio Libertad, Mariel Arias, brindó la información acerca del uso y función que se le dará a futuro a cada sector del predio. Esto permitirá arribar a un ordenamiento de los diferentes espacios que lo componen, a través de la vegetación, priorizando el uso de especies nativas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/521r9ij.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qnZfoZz.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Por otro lado, se evaluó la posibilidad de utilizar una cisterna semienterrada actualmente en desuso para ubicar equipos informáticos (datacenter). Se propone complementar esta estrategia con una cubierta verde para aprovechar este tipo de estrategias bioclimáticas que permiten reducir el uso de energía convencional en la climatización del espacio destinado al datacenter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KY9jXB8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/FzE7Ksy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/PZFjvnf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8uvkDmP.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;La actividad está enmarcada en el convenio de colaboración entre el Refugio Libertad y la UNRC (RES. Nº 177 / 07-06-22 C.S - expediente nro 138527).&lt;/p&gt;
+</content
+    >
+  </entry>
+  <entry>
+    <title>Residencias Artísticas</title>
+    <link href="http://localhost:8080/blog/residencias-artisticas/" />
+    <updated>2023-03-15T00:00:00Z</updated>
+    <id>http://localhost:8080/blog/residencias-artisticas/</id>
+    <content
+      xml:lang=""
+      type="html"
+      >&lt;h1 id=&quot;residencias-artisticas-en-el-refugio-libertad&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/residencias-artisticas/#residencias-artisticas-en-el-refugio-libertad&quot;&gt;Residencias Artísticas en el Refugio Libertad&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KGNpN8y.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;En el mes de marzo se realizó la primera Residencia Artística en el Refugio Libertad.&lt;/p&gt;
+&lt;p&gt;Nuestra experiencia finalizó un domingo. Hay quienes llegaron el jueves, otres se nos sumaron el viernes y el sábado.&lt;br /&gt;
+Fuimos un grupo de 15 personas que compartimos, cada quien, desde su rol, la experiencia de inmersión en un territorio plagado de paradojas, el Ex GA 141, actual Refugio Libertad.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/5nAqsNY.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Al cotorreo insesante de las loras, se sumó nuestro coro de lectura y charlas en una polifonía dispersa… se sumaron también las caminatas, largas caminatas a los sitios históricos rodeados de monte nativo y escombros recobrados por la maleza.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ZV82Arh.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Cocinamos, comimos, escribimos, mucho.&lt;br /&gt;
+Sumergirse en un territorio nuevo y singular requiere de un acto de entrega amorosa y valiente, un camuflaje, un cambio de piel, como el que hacen las serpientes cada año.&lt;/p&gt;
+&lt;p&gt;El sábado y el domingo realizamos practicas de experiencias situadas en algunos sitios históricos, y trabajamos con los textos y registro audiovisual generado esos días.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/gLq8Hxy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Tambien trabajamos en la composición de un semimontado que estaremos compartiendo en cualquier momento&lt;br /&gt;
+En la noche del sábado, tuvimos en desmontaje del ensayo general de la obra “Hoy es siempre todavia” de @distanciasminimas.project, el proyecto residente invitado que termino de montarse durante la residencia. Todas las narrativas surgidas en torno a los archivos propios y los colectivos, se vieron reflejados en el intercambio y el debate con esta obra.&lt;br /&gt;
+El domingo fue una despedida intensa y calma, habitando las paradojas del sitio.&lt;br /&gt;
+Gracias a todxs y cada unx de las personas que se hicieron presentes.&lt;/p&gt;
+&lt;p&gt;Julieta Reyes, Gestora Cultural del Refugio Libertad&lt;/p&gt;
+</content
+    >
+  </entry>
+  <entry>
+    <title>Conectividad en el Refugio Libertad</title>
+    <link href="http://localhost:8080/blog/conectividad-en-el-refugio-libertad/" />
+    <updated>2023-03-01T00:00:00Z</updated>
+    <id>http://localhost:8080/blog/conectividad-en-el-refugio-libertad/</id>
+    <content
+      xml:lang=""
+      type="html"
+      >&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/socTXjo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;El &lt;strong&gt;Equipo de Infraestructura Digital&lt;/strong&gt; de &lt;strong&gt;Trabajadores Unidos por La Tierra&lt;/strong&gt; está formado por Germán Ferrero, Joaquín Godoy y Marcela Juarez.&lt;br /&gt;
+Este equipo será responsable de llevar conectividad al interior del predio del Refugio Libertad. Conectará edificios donde funcionan unidades productivas, actividades sociocomunitarias y viviendas.&lt;br /&gt;
+Este despliegue de red será a través de tendido de fibra óptica y enlaces wifi.&lt;/p&gt;
+&lt;p&gt;“Hoy en día tener acceso a internet es primordial para las personas que viven en este territorio y para el funcionamiento de los distintos proyectos productivos”, comenta Germán Ferrero, programador, vecino del Valle de Paravachasca y miembro de la organización &lt;strong&gt;Traut&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/JZKrmHF.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Este entramado de red comienza su camino interconectandose con las redes comunitarias Quintana Libre y Molinos comunitaria. Esta última está conectada con la red federal de fibra óptica de &lt;strong&gt;Arsat&lt;/strong&gt;, y a través de un enlace wifi, se conecta con el Refugio Libertad.&lt;br /&gt;
+El punto de conección con internet es el tanque de agua del predio.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/nVXCfo7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Desde allí se desplegarán dos tendidos troncales:&lt;/p&gt;
+&lt;ol class=&quot;list&quot;&gt;
+&lt;li&gt;Del tanque al edificio del Enocep y  al ex barrio de oficiales.&lt;/li&gt;
+&lt;li&gt;Del tanque al ex barrio de suboficiales conectando en el camino  los edificios que desarrollan distintas actividades sociocomunitarias y productivas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Marcela, quien es parte de las primeras familias que viven dentro del predio, comenta que además de estar a cargo de la conectividad del predio tambien, el equipo tiene la intención de brindar soporte técnico a las redes comunitarias de la zona.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/ZJBWVTe.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“Es un camino de soberanía tecnológica y nos estamos formando en eso.” agrega.&lt;/p&gt;
+&lt;p&gt;Joaquín, vecino de José de La Quintana, está cursando el último año de secundaria. Comparte que esta es su primera experiencia laboral formal y agrega que “es un trabajo cooperativo y va de la mano con la idea de trabajo comunitario de todo el predio.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/JODE4N5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“Nos vamos formando con los materiales que van llegando y&lt;br /&gt;
+las problematicas que van surgiendo y de a poco se va adquiriendo más saber”, dice Joaquín.&lt;/p&gt;
+&lt;p&gt;Este equipo ya avanzó en la conexión interna del edificio donde funciona la &lt;strong&gt;Escuela Nacional de Organización Comunitaria y Economía Popular&lt;/strong&gt; - &lt;strong&gt;ENOCEP&lt;/strong&gt;- , el edificio donde la organización &lt;strong&gt;Hogar de Cristo&lt;/strong&gt; desempeña sus actividades y en la mejora de las instalaciones y conexiones arriba del tanque.&lt;/p&gt;
+&lt;h1 id=&quot;nuevos-desafios&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/conectividad-en-el-refugio-libertad/#nuevos-desafios&quot;&gt;Nuevos desafíos&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Todavía hay mucho trabajo por hacer y para realizarlo deben incorporar nuevos saberes.&lt;br /&gt;
+Es por ello que el equipo organizó un &lt;strong&gt;Taller Práctico de Fibra Optica&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1 id=&quot;el-taller-de-fibra-optica&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/conectividad-en-el-refugio-libertad/#el-taller-de-fibra-optica&quot;&gt;El Taller de Fibra Optica&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Tuvo Lugar el dos, tres y cuatro de febrero de 2023  en el edificio de la &lt;strong&gt;ENOCEP&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/ZwzD8rS.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Para facilitar el taller convocaron a compañeros y compañeras de la &lt;strong&gt;organización Civil Hormiguero&lt;/strong&gt; que trabajan en el despliegue de fibra óptica de la Red Comunitaria &lt;strong&gt;“Soldati Conectada”&lt;/strong&gt;, en el barrio popular Villa Soldati, Buenos Aires.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/SHhKJWL.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;El principal objetivo del taller fue la capacitación del Equipo de Infraestructura Digital del Refugio Libertad que requiere de esta formación para las próximas etapas de trabajo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/dkX9DdL.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/zRLQr93.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/FfU4rPa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Este taller estuvo enfocado en el uso de las herramientas y los materiales que utilizaremos en nuestra red de fibra óptica.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/7j45I9a.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/pTbFhIB.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/7nCNwC0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Además, se aprovechó la instancia para abrir el taller de forma gratuita a toda la comunidad. En total participaron treinta personas además de compañeros que estuvieron colaborando en las distintas instancias del taller.&lt;br /&gt;
+Vinieron compañeros de Tecnología de Raíz Cosquín, AlterMundi, Encuentro de Organizaciones Cba, vecinos de Anisacate, San Isidro, Despeñaderos y La Rancherita.&lt;br /&gt;
+Algunos, interesados en aprender de fibra para las redes que ya están sosteniendo y otros interesados en promover nuevas redes en sus territorios.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/liJFtKP.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Desplegamos 600 metros del tendido troncal de la red del Refugio Libertad, y dejamos instalada la primera caja NAP para la distribución a los edificios.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/XqEso3S.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/W8HV03f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Aprendimos todo lo necesario para realizar el despliegue completo de la red: Devainado de cables, armado de cajas y botellas, conectorización de cables drop y fusión de pelos de fibra.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/BNorZCf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/146Ft88.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/nM07QLK.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/8G3H0x3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Y lo más importante de todo, establecimos vínculo con Soldati Conectada y fortalecimos el vínculo con el resto de las organizaciones que ya conocíamos&amp;quot;, comenta el equipo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/FF4CEWJ.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/gYrnQE9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“Nos enorgullece alojar en el Refugio Libertad, esta oportunidad de compartir saberes construidos en el territorio y esperamos que fortalezca los procesos de soberanía tecnológica y conectividad comunitaria que llevan adelante en sus territorios las personas que participaron del taller” concluye Germán.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/LFNKjCj.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://refugio.libre.org.ar/conectividad/fotos_taller_fo/WeHi5Oz.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content
+    >
+  </entry>
+  <entry>
+    <title>Desarrollo Armónico</title>
+    <link href="http://localhost:8080/blog/desarrollo-armonico/" />
+    <updated>2023-02-15T00:00:00Z</updated>
+    <id>http://localhost:8080/blog/desarrollo-armonico/</id>
+    <content
+      xml:lang=""
+      type="html"
+      >&lt;h1 id=&quot;soberania-alimentaria-y-tecnologica-desde-los-territorios-rurales&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/desarrollo-armonico/#soberania-alimentaria-y-tecnologica-desde-los-territorios-rurales&quot;&gt;Soberanía Alimentaria y Tecnológica desde los territorios rurales&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/WolaPnZ.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;En el Refugio Libertad se desarrolla una experiencia de Tierra, Techo, Trabajo y Conectividad en una comunidad rural organizada. En lo que fuera el ex Grupo de Artillería 141 José de la Quintana, centro clandestino de la detención durante la última dictadura cívico-eclesiástica-militar, fue presentado en noviembre un plan integral estructurado en cuatro ejes: relocalización e infraestructura habitacional; trabajo y producción en el marco de la Agricultura Comunitaria y la Economía Popular; conectividad y apropiación comunitaria de tecnologías; y Desarrollo Sociocomunitario, Memoria y Derechos Humanos. La iniciativa tiene un presupuesto total de $289.823.999 (fondos internacionales y aportes de la contraparte) y resultó entre los 21 seleccionadas de una convocatoria nacional con 664 postulantes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/wWOXhmD.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“Es quizás el proyecto más ambicioso, desafiante y de mayor envergadura implementado en estos territorios”, destacó en la presentación Mercedes Ferrero, coordinadora del plan que la Asociación Civil Semillitas de Libertad lleva adelante en alianza con Alter Mundi. Con avales de universidades, agencias del Estado nacional y provincial, cooperativas y entes autárquicos, se prevé la creación de 61 puestos de trabajo directos, puestos de trabajo indirectos, impactos positivos en los comercios de la zona y relocalización de familias en una “vuelta al campo” en clave de Memoria y soberanía alimentaria.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/uPSAJYu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“Se trata de un fortalecimiento del campo comunitario Refugio Libertad, apuntalando lo que ya funciona aquí como semilla” completó Mercedes, destacó la fenomenal crisis alimentaria que atraviesa al mundo y reafirmó que “no se puede recuperar la tierra sin recuperar la Memoria”.&lt;/p&gt;
+&lt;p&gt;Para romper ese panorama surgen desde los territorios distintos modos de concebir la producción, la comercialización y el consumo. Otras formas de vida ante la crisis inédita de un modelo que se revela agotado.&lt;/p&gt;
+&lt;p&gt;En una provincia que sostiene apenas el 3% del monte nativo original, donde el cemento se impone por goleada y la mayor parte de la superficie cultivable está consagrada a las commodities, desde los territorios crecen propuestas y demandas que ponen la mirada en la necesidad de otra Córdoba posible.&lt;/p&gt;
+</content
+    >
+  </entry>
+</feed>
