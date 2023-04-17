@@ -4,7 +4,7 @@ description: 'Relevamiento de la cátedra de espacios verdes y del grupo de ener
 date: 2023-03-30
 ---
 
-# Relevamiento en el Refugio Libertad por parte de integrantes de la cátedra de Espacios Verdes (Facultad de Agronomía y Veterinaria) y del Grupo de Energía Solar (Facultad de Ingeniería)
+**Relevamiento en el Refugio Libertad por parte de integrantes de la cátedra de Espacios Verdes (Facultad de Agronomía y Veterinaria) y del Grupo de Energía Solar (Facultad de Ingeniería)**
 
 ![](https://i.imgur.com/jI7PmEj.jpg)
 
