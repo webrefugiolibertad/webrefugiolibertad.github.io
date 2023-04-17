@@ -1,7 +1,7 @@
 ---
 title: 'Desarrollo Armónico'
 description: 'En el Refugio Libertad se desarrolla una experiencia de Tierra, Techo, Trabajo y Conectividad en una comunidad rural organizada.'
-date: 2023-02-15
+date: 2023-02-01
 ---
 
 # Soberanía Alimentaria y Tecnológica desde los territorios rurales
