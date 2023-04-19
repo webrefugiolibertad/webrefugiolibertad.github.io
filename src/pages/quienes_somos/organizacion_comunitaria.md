@@ -15,12 +15,12 @@ Trabajadores Unidos por la Tierra (TRAUT) es una organización de trabajadoras y
 
 ![](https://i.imgur.com/4kuOHFl.jpg)
   
-Su sede central es el edificio donde funcionó el casino de Suboficiales cuando el predio se constituía como el Grupo de Artillería 141 de José de La Quintana. 
+Su sede central es el edificio donde funcionó el casino de Suboficiales cuando el predio se constituía como el Grupo de Artillería 141 de José de La Quintana.
 En 2018 se comenzó a recuperar con mucho esfuerzo y trabajo por parte de los miembros de Traut.
 
-Actualmente en el edificio se llevan a cabo las asambleas, espacios de formación y actividades cotidianas de trabajo y encuentro entre miembros de Traut, vecinos y vecinas de los pueblos cercanos y diversas instituciones y organizaciones que habitan este espacio con diversos proyectos. 
+Actualmente en el edificio se llevan a cabo las asambleas, espacios de formación y actividades cotidianas de trabajo y encuentro entre miembros de Traut, vecinos y vecinas de los pueblos cercanos y diversas instituciones y organizaciones que habitan este espacio con diversos proyectos.
 
-Somos mayoritariamente mujeres y, junto con nuestros compañeros, estamos comprometidas/os con la erradicación de la violencia de género y la construcción de alternativas de vida digna para otras mujeres, jóvenes, niñes y otres. 
+Somos mayoritariamente mujeres y, junto con nuestros compañeros, estamos comprometidas/os con la erradicación de la violencia de género y la construcción de alternativas de vida digna para otras mujeres, jóvenes, niñes y otres.
 
 ![](https://i.imgur.com/GgBgAU3.jpg)
 
@@ -28,7 +28,7 @@ Somos mayoritariamente mujeres y, junto con nuestros compañeros, estamos compro
 
 ![](https://i.imgur.com/lurhpUf.jpg)
 
-Actualmente funciona en el predio la iniciativa Refugio Cultural, que promueve actividades educativas, de formación para trabajadores, actividades culturales y sociocomunitarias  abiertas a las familias de las comunidades vecinas. 
+Actualmente funciona en el predio la iniciativa Refugio Cultural, que promueve actividades educativas, de formación para trabajadores, actividades culturales y sociocomunitarias  abiertas a las familias de las comunidades vecinas.
 
 En la sede del ex-casino se desenvuelven actualmente dos proyectos educativos, **Enocep y Cenma**.
 
