@@ -20,6 +20,8 @@ infraestructura de uso colectivo, mantenimiento y extensión de servicios](https
 
 ## Procesos en curso
 
+- no hay procesos en curso en este momento.
+
 ## Procesos finalizados
 
 | Fecha publicación | Nombre del Proceso | fecha límite |
