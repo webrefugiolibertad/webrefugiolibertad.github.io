@@ -1,5 +1,5 @@
 ---
-title: Concurso de Precios
+title: Concursos de Precios
 seo:
   title: Refugio Libertad
 permalink: /concursos_precios/index.html

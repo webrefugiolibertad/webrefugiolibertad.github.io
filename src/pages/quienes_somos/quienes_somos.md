@@ -32,21 +32,16 @@ Además, en el sector de la agricultura familiar los que acceden a la tierra muy
 
 ![](https://i.imgur.com/7wgqkSs.jpg)
 
-## El Proyecto Refugio Libertad
+**El Proyecto Refugio Libertad**
 
-# La producción agroecológica de alimentos sanos, en el marco de la economía popular, con objetivos de seguridad y soberanía alimentaria
+- [La producción agroecológica de alimentos sanos, en el marco de la economía popular, con objetivos de seguridad y soberanía alimentaria](alimentos_sanos)
 
-https://hackmd.io/s/Hkiwgixb3
- 
-# La reconstrucción de la memoria histórica
+- [La reconstrucción de la memoria histórica](memoria_historica)
 
-https://hackmd.io/s/r12nfG7Wn
+- [La organización comunitaria, el desarrollo socio-cultural y la formación popular](organizacion_comunitaria)
 
-# La organización comunitaria, el desarrollo socio-cultural y la formación popular 
-https://hackmd.io/s/HJumQzX-n
-
-# El cuidado del territorio y los bienes comunes
+- El cuidado del territorio y los bienes comunes
  Especialmente el cuidado del río y del monte nativo (en la provincia de Córdoba queda solamente el 3%), por lo que se promueve la creación de un Área Campesina en la totalidad del predio, de modo que el mismo no pueda ser utilizado con fines que pongan en riesgo la flora y la fauna nativa, sino que toda actividad que se desarrolle sea en el marco del cuidado del territorio.
  
-# El acompañamiento a personas con consumo problemático de sustancias
-El edificio de la ex-Mayoría está siendo recuperado de manera conjunta con el Hogar de Cristo – Centro Barrial Madre de la Esquina (barrio Suárez, Córdoba capital) como espacio destinado específicamente a este fin. 
+- El acompañamiento a personas con consumo problemático de sustancias
+El edificio de la ex-Mayoría está siendo recuperado de manera conjunta con el Hogar de Cristo – Centro Barrial Madre de la Esquina (barrio Suárez, Córdoba capital) como espacio destinado específicamente a este fin.
