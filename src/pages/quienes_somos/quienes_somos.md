@@ -4,7 +4,7 @@ seo:
   title: Refugio Libertad
 permalink: /quienes_somos/index.html
 description: 'Una experiencia de Tierra, Techo, Trabajo y Conectividad.'
-layout: page
+layout: quienes_somos
 ---
 
 ![](https://i.imgur.com/AP44nS1.jpg)
@@ -14,13 +14,13 @@ Además, el refugio libertad se constituye como un espacio comunitario que venim
 
 El refugio tambien es cultural, identitario. El refugio cultural alberga actividades artísticas y culturales, educativas, de formación para trabajadores, una  biblioteca popular, entre muchas otras experiencias  para todos los habitantes de la zona.
 
-**Ubicación del Refugio Libertad**
+### Ubicación del Refugio Libertad
 
 El Refugio Libertad funciona en el predio del ex-Grupo 141 de Artillería del Ejército, dependiente de la Dirección de Fabricaciones Militares (puntualmente de la Fábrica Militar de Río Tercero) del Ministerio de Defensa. Se trata de un predio localizado en una zona rural a 55km al sur de la ciudad de Córdoba. El mismo tiene aproximadamente 880 hectáreas que en su mayoría (cerca de 800 hectáreas) son de extensión serrana y monte nativo (“zona roja” según la Ley de Ordenamiento Territorial del Bosque Nativo); se ubica en la margen norte del Río Los Molinos llegando hasta el Dique de José de la Quintana. Y colinda con las localidades y ejidos de José de la Quintana (al norte y noroeste), Villa San Isidro (al noreste) y Los Molinos (al sur); todas ellas de menos de 1000 habitantes.
 
 ![](https://refugio.libre.org.ar/infografia.jpeg)
 
-**¿Por qué surgimos?**
+### ¿Por qué surgimos?
 
 ![](https://i.imgur.com/UlIVkhc.jpg)
 
@@ -32,9 +32,9 @@ Además, en el sector de la agricultura familiar los que acceden a la tierra muy
 
 ![](https://i.imgur.com/7wgqkSs.jpg)
 
-**El Proyecto Refugio Libertad**
+### El Proyecto Refugio Libertad
 
-<article class="wrapper region">
+<!-- <article class="wrapper region"> -->
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
 
     <li class="card flow overflow-hidden">
@@ -44,16 +44,12 @@ Además, en el sector de la agricultura familiar los que acceden a la tierra muy
       <p>La producción agroecológica de alimentos sanos, en el marco de la economía popular, con objetivos de seguridad y soberanía alimentaria.</p>
     </li>
 
-  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-
     <li class="card flow overflow-hidden">
       <h2>
         <a href="memoria_historica">La reconstrucción de la memoria histórica</a>
       </h2>
       <p>Durante la década del 40’ se construyó en el predio una fábrica de pólvora que nunca inició su funcionamiento</p>
     </li>
-
-  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
 
     <li class="card flow overflow-hidden">
       <h2>
@@ -62,11 +58,19 @@ Además, en el sector de la agricultura familiar los que acceden a la tierra muy
       <p>Trabajadores Unidos por la Tierra (TRAUT) es una organización de trabajadoras y trabajadores rurales del sur de Córdoba.</p>
     </li>
 
+    <li class="card flow overflow-hidden">
+      <h2>
+       El cuidado del territorio y los bienes comunes 
+      </h2>
+      <p>Especialmente el cuidado del río y del monte nativo (en la provincia de Córdoba queda solamente el 3%), por lo que se promueve la creación de un Área Campesina en la totalidad del predio, de modo que el mismo no pueda ser utilizado con fines que pongan en riesgo la flora y la fauna nativa, sino que toda actividad que se desarrolle sea en el marco del cuidado del territorio.</p> 
+    </li>
+
+    <li class="card flow overflow-hidden">
+      <h2>
+       El acompañamiento a personas con consumo problemático de sustancias 
+      </h2>
+      <p>El edificio de la ex-Mayoría está siendo recuperado de manera conjunta con el Hogar de Cristo – Centro Barrial Madre de la Esquina (barrio Suárez, Córdoba capital) como espacio destinado específicamente a este fin.</p> 
+    </li>
+
   </ul>
-</article>
-
-- El cuidado del territorio y los bienes comunes
- Especialmente el cuidado del río y del monte nativo (en la provincia de Córdoba queda solamente el 3%), por lo que se promueve la creación de un Área Campesina en la totalidad del predio, de modo que el mismo no pueda ser utilizado con fines que pongan en riesgo la flora y la fauna nativa, sino que toda actividad que se desarrolle sea en el marco del cuidado del territorio.
-
-- El acompañamiento a personas con consumo problemático de sustancias
-El edificio de la ex-Mayoría está siendo recuperado de manera conjunta con el Hogar de Cristo – Centro Barrial Madre de la Esquina (barrio Suárez, Córdoba capital) como espacio destinado específicamente a este fin.
+<!-- </article> -->

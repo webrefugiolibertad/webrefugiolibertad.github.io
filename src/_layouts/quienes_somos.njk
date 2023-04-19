@@ -1,0 +1,31 @@
+---
+layout: base
+---
+
+<header class="section spot-color-primary">
+  <div class="section__inner">
+    <div class="wrapper flow region">
+      <h1 class="text-center">{{ title }}</h1>
+    </div>
+  </div>
+<!-- {% include 'svg/divider-edgy.svg' %} -->
+</header>
+
+<!--
+<article class="region" style="--region-space-top: var(--space-s)">
+  <div class="wrapper flow prose"> -->
+    <!-- <h2>{{ blog.title }}</h2> -->
+    <!-- blog intro text is optional. -->
+    <!-- {% if blog.intro %}
+    <p>{{ blog.intro }}</p>
+    {% endif %} -->
+<!--  </div> -->
+  <!-- TODO: duplicate of partials/blog.njk -->
+
+<article class="region">
+  <div class="wrapper flow prose">
+    {{ content | safe }}
+  </div>
+</article>
+
+</article>
