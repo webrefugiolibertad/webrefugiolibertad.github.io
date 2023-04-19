@@ -1,13 +1,8 @@
 [
   {
-    "platform": "gitlab",
-    "url": "https://github.com/refugiolibertad/webrefugiolibertad.github.io",
-    "icon": "github.svg"
-  },
-  {
-    "platform": "mastodon",
-    "url": "https://front-end.social/@refu",
-    "icon": "mastodon.svg"
+    "platform": "twitter",
+    "url": "https://twitter.com/Traut_Cordoba",
+    "icon": "twitter.svg"
   },
   {
     "platform": "rss",
