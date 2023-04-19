@@ -1,5 +1,5 @@
 ---
-title: Refugio Libertad 
+title: Refugio Libertad
 seo:
   title: La organización comunitaria, el desarrollo socio-cultural y la formación popular
 permalink: /quienes_somos/organizacion_comunitaria/index.html
@@ -14,7 +14,7 @@ layout: page
 Trabajadores Unidos por la Tierra (TRAUT) es una organización de trabajadoras y trabajadores rurales del sur de Córdoba. Forman parte más de 200 familias de 7 localidades vecinas. Sus integrantes son habitantes de las localidades de Los Molinos, Villa San Isidro, José de la Quintana, Despeñaderos, San Agustín, Monte Ralo, Soconcho y Calmayo. Trabajadorxs rurales organizados que trabajan principalmente en unidades productivas como huertas comunitarias y gallineros, pero también en producción vacuna, porcina, ovina, apicultura, cunicultura. Además, la integran cooperativas de trabajo textil, de reciclado y cuadrillas de construcción.
 
 ![](https://i.imgur.com/4kuOHFl.jpg)
-  
+
 Su sede central es el edificio donde funcionó el casino de Suboficiales cuando el predio se constituía como el Grupo de Artillería 141 de José de La Quintana.
 En 2018 se comenzó a recuperar con mucho esfuerzo y trabajo por parte de los miembros de Traut.
 
@@ -34,7 +34,7 @@ En la sede del ex-casino se desenvuelven actualmente dos proyectos educativos, *
 
 ![](https://i.imgur.com/h3VoFXN.jpg)
 
-La Escuela Nacional de Organización Comunitaria y Economía Popular (ENOCEP)  que es un espacio de formación para  trabajadores y trabajadoras de la economía popular, dirigentes y militantes, con el objetivo de fortalecer a los movimientos populares. 
+La Escuela Nacional de Organización Comunitaria y Economía Popular (ENOCEP)  que es un espacio de formación para  trabajadores y trabajadoras de la economía popular, dirigentes y militantes, con el objetivo de fortalecer a los movimientos populares.
 Es una inicitativa del Movimiento de Trabajadores Excluídos **MTE**.
 
 leer mas: https://hackmd.io/xLwPmahFTD2fu6NlmJ8H1Q

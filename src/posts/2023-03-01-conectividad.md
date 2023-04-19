@@ -1,6 +1,6 @@
 ---
 title: 'Conectividad en el Refugio Libertad'
-description: 'El Equipo de Infraestructura Digital de Traut está formado por Germán Ferrero, Joaquín Godoy y Marcela Juarez.' 
+description: 'El Equipo de Infraestructura Digital de Traut está formado por Germán Ferrero, Joaquín Godoy y Marcela Juarez.'
 date: 2023-01-01
 ---
 
@@ -9,9 +9,6 @@ date: 2023-01-01
 El **Equipo de Infraestructura Digital** de **Trabajadores Unidos por La Tierra** está formado por Germán Ferrero, Joaquín Godoy y Marcela Juarez.
 Este equipo será responsable de llevar conectividad al interior del predio del Refugio Libertad. Conectará edificios donde funcionan unidades productivas, actividades sociocomunitarias y viviendas.
 Este despliegue de red será a través de tendido de fibra óptica y enlaces wifi.
-
-
-
 
 "Hoy en día tener acceso a internet es primordial para las personas que viven en este territorio y para el funcionamiento de los distintos proyectos productivos", comenta Germán Ferrero, programador, vecino del Valle de Paravachasca y miembro de la organización **Traut**.
 
@@ -22,9 +19,9 @@ El punto de conección con internet es el tanque de agua del predio.
 
 ![](https://refugio.libre.org.ar/conectividad/fotos_taller_fo/nVXCfo7.jpg)
 
+Desde allí se desplegarán dos tendidos troncales:
 
-Desde allí se desplegarán dos tendidos troncales: 
-1. Del tanque al edificio del Enocep y  al ex barrio de oficiales.
+1. Del tanque al edificio del Enocep y al ex barrio de oficiales.
 2. Del tanque al ex barrio de suboficiales conectando en el camino  los edificios que desarrollan distintas actividades sociocomunitarias y productivas.
 
 Marcela, quien es parte de las primeras familias que viven dentro del predio, comenta que además de estar a cargo de la conectividad del predio tambien, el equipo tiene la intención de brindar soporte técnico a las redes comunitarias de la zona.
@@ -33,19 +30,15 @@ Marcela, quien es parte de las primeras familias que viven dentro del predio, co
 
 "Es un camino de soberanía tecnológica y nos estamos formando en eso." agrega.
 
-
-
-Joaquín, vecino de José de La Quintana, está cursando el último año de secundaria. Comparte que esta es su primera experiencia laboral formal y agrega que "es un trabajo cooperativo y va de la mano con la idea de trabajo comunitario de todo el predio." 
+Joaquín, vecino de José de La Quintana, está cursando el último año de secundaria. Comparte que esta es su primera experiencia laboral formal y agrega que "es un trabajo cooperativo y va de la mano con la idea de trabajo comunitario de todo el predio."
 
 ![](https://refugio.libre.org.ar/conectividad/fotos_taller_fo/JODE4N5.jpg)
 
-"Nos vamos formando con los materiales que van llegando y 
-las problematicas que van surgiendo y de a poco se va adquiriendo más saber", dice Joaquín. 
-
+"Nos vamos formando con los materiales que van llegando y las problematicas que van surgiendo y de a poco se va adquiriendo más saber", dice Joaquín.
 
 Este equipo ya avanzó en la conexión interna del edificio donde funciona la **Escuela Nacional de Organización Comunitaria y Economía Popular** - **ENOCEP**- , el edificio donde la organización **Hogar de Cristo** desempeña sus actividades y en la mejora de las instalaciones y conexiones arriba del tanque.
 
-# Nuevos desafíos
+#### Nuevos desafíos
 
-Todavía hay mucho trabajo por hacer y para realizarlo deben incorporar nuevos saberes. 
+Todavía hay mucho trabajo por hacer y para realizarlo deben incorporar nuevos saberes.
 Es por ello que el equipo organizó un **Taller Práctico de Fibra Optica**.

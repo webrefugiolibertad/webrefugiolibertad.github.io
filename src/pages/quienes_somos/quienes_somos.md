@@ -1,5 +1,5 @@
 ---
-title: Quienes Somos 
+title: Quienes Somos
 seo:
   title: Refugio Libertad
 permalink: /quienes_somos/index.html
@@ -42,6 +42,6 @@ Además, en el sector de la agricultura familiar los que acceden a la tierra muy
 
 - El cuidado del territorio y los bienes comunes
  Especialmente el cuidado del río y del monte nativo (en la provincia de Córdoba queda solamente el 3%), por lo que se promueve la creación de un Área Campesina en la totalidad del predio, de modo que el mismo no pueda ser utilizado con fines que pongan en riesgo la flora y la fauna nativa, sino que toda actividad que se desarrolle sea en el marco del cuidado del territorio.
- 
+
 - El acompañamiento a personas con consumo problemático de sustancias
 El edificio de la ex-Mayoría está siendo recuperado de manera conjunta con el Hogar de Cristo – Centro Barrial Madre de la Esquina (barrio Suárez, Córdoba capital) como espacio destinado específicamente a este fin.
