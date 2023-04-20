@@ -50,7 +50,7 @@ Ver más:
 El 24 de Marzo de 2021, a 45 años del golpe genocida, hicimos memoria en el Refugio Libertad compartiendo el cierre del ciclo "Escena y Memoria" en su 12 edición, en una actividad conjunta del Archivo Provincial de la Memoria y Trabajadores Unidos por La Tierra.
 
 Ver más:
-{% youtube 'OC5wn8kl2qc', Memoria, Verdad y Justicia' %}
+{% youtube 'OC5wn8kl2qc', 'Memoria, Verdad y Justicia' %}
 
 El 2 de Julio de 2022, este predio fue señalizado por la Secretaría de Derechos Humanos de La Nación, a través de la Dirección Nacional de Sitios y Espacios de Memoria, La Dirección Provincial de La Memoria, La mesa Provincial de Trabajo por Los Derechos Humanos de Córdoba, La Organización Social Trabajadores Unidos Por La Tierra, junto a otras organizaciónes sociales regionales, como  Un Centro Clandestino de Detención y Tortura en el marco del plan sistemático de terror y exterminio ejecutado por la última Dictadura Civico Militar Eclesiástica.
 
