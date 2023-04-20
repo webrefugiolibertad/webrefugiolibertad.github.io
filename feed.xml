@@ -199,8 +199,11 @@ por Anabella Antonelli&lt;/p&gt;
 &lt;h4 id=&quot;cenma&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/enocep-cenma/#cenma&quot;&gt;CENMA&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Desde el año 2022 funciona un Centro Educativo de Nivel Medio para Adultos (CENMA), dependiente del CENMA SMATA y con el aporte voluntario de docentes de los pueblos, en el que un número cada vez mayor de estudiantes vuelven al sistema educativo y a las posibilidades que la certificación de estudios les da. Asimismo se proponen espacios de formación en oficios, además de aquellos que hacen a las actividades propias de la organización.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/2zHWeLA.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Aca va el video&lt;br /&gt;
-&lt;a href=&quot;https://drive.google.com/file/d/1r6AGaRma5xtGITy4BEw4GqNuaRM917SC/view?usp=share_link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://drive.google.com/file/d/1r6AGaRma5xtGITy4BEw4GqNuaRM917SC/view?usp=share_link&lt;/a&gt;&lt;/p&gt;
+  &lt;div class=&quot;youtube-embed&quot;&gt; &lt;lite-youtube videoid=&quot;05sZ92glxtk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/05sZ92glxtk/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;El Cenma del Refugio Libertad&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;&lt;/div&gt;
 </content
     >
   </entry>
