@@ -22,7 +22,7 @@ module.exports = {
     // this is for the rss feed
     name: 'Refugio Libertad',
     description:
-      'Trabajadores Unidos por la Tierra. Refugio Libertad - Una experiencia de Tierra, Techo y Trabajo.'
+      'Trabajadores Unidos por la Tierra. Refugio Libertad - Una experiencia de Tierra, Techo, Trabajo y Conectividad.'
   },
   pagination: {
     itemsPerPage: 20

@@ -5,6 +5,11 @@
     "icon": "twitter.svg"
   },
   {
+    "platform": "face",
+    "url": "https://facebook.com/TrabajadoresUnidosporlaTierra",
+    "icon": "facebook.svg"
+  },
+  {
     "platform": "rss",
     "url": "/feed.xml",
     "icon": "rss.svg"
