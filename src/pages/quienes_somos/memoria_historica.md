@@ -47,7 +47,7 @@ Ver más:
 
 https://youtu.be/DxIpY7hhtS8
 
-El 24 de Mrzo de 2021, a 45 años del golpe genocida, hicimos memoria en el Refugio Libertad compartiendo el cierre del ciclo "Escena y Memoria" en su 12 edición, en una actividad conjunta del Archivo Provincial de la Memoria y Trabajadores Unidos por La Tierra.
+El 24 de Marzo de 2021, a 45 años del golpe genocida, hicimos memoria en el Refugio Libertad compartiendo el cierre del ciclo "Escena y Memoria" en su 12 edición, en una actividad conjunta del Archivo Provincial de la Memoria y Trabajadores Unidos por La Tierra.
 
 Ver más:
 

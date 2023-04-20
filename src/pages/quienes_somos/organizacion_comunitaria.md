@@ -37,9 +37,6 @@ En la sede del ex-casino se desenvuelven actualmente dos proyectos educativos, *
 La Escuela Nacional de Organización Comunitaria y Economía Popular (ENOCEP)  que es un espacio de formación para  trabajadores y trabajadoras de la economía popular, dirigentes y militantes, con el objetivo de fortalecer a los movimientos populares.
 Es una inicitativa del Movimiento de Trabajadores Excluídos **MTE**.
 
-leer mas: https://hackmd.io/xLwPmahFTD2fu6NlmJ8H1Q
-POSTEO DE EDUCACIÓN
-
 Desde el año 2022 funciona un Centro Educativo de Nivel Medio para Adultos (CENMA), dependiente del CENMA SMATA y con el aporte voluntario de docentes de los pueblos.
 
 Anualmente suceden en el refugio diversas actividades culturales organizadas por Traut y otras instituciones amigas.

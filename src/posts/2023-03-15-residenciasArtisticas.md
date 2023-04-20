@@ -4,8 +4,6 @@ description: 'En el mes de marzo se realizó la primera Residencia Artística en
 date: 2023-03-15
 ---
 
-# Residencias Artísticas en el Refugio Libertad
-
 ![](https://i.imgur.com/KGNpN8y.jpg)
 
 En el mes de marzo se realizó la primera Residencia Artística en el Refugio Libertad.
@@ -16,7 +14,7 @@ Fuimos un grupo de 15 personas que compartimos, cada quien, desde su rol, la exp
 ![](https://i.imgur.com/5nAqsNY.jpg)
 
  Al cotorreo insesante de las loras, se sumó nuestro coro de lectura y charlas en una polifonía dispersa… se sumaron también las caminatas, largas caminatas a los sitios históricos rodeados de monte nativo y escombros recobrados por la maleza.
- 
+
  ![](https://i.imgur.com/ZV82Arh.jpg)
 
 Cocinamos, comimos, escribimos, mucho.
@@ -31,4 +29,4 @@ En la noche del sábado, tuvimos en desmontaje del ensayo general de la obra “
 El domingo fue una despedida intensa y calma, habitando las paradojas del sitio.
 Gracias a todxs y cada unx de las personas que se hicieron presentes.
 
-Julieta Reyes, Gestora Cultural del Refugio Libertad
+Julieta Reyes, Gestora Cultural del Refugio Libertad.
