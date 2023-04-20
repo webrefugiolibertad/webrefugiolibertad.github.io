@@ -1,19 +1,18 @@
 ---
-title: Refugio Libertad
+title: TRauT 
 seo:
   title: La organización comunitaria, el desarrollo socio-cultural y la formación popular
 permalink: /quienes_somos/organizacion_comunitaria/index.html
 description: 'Trabajadores Unidos por la Tierra (TRAUT) es una organización de trabajadoras y trabajadores rurales del sur de Córdoba.'
 layout: page
+youtube: true
 ---
-
-**TRauT**
 
 ![](https://i.imgur.com/prf5j35.jpg)
 
 Trabajadores Unidos por la Tierra (TRAUT) es una organización de trabajadoras y trabajadores rurales del sur de Córdoba. Forman parte más de 200 familias de 7 localidades vecinas. Sus integrantes son habitantes de las localidades de Los Molinos, Villa San Isidro, José de la Quintana, Despeñaderos, San Agustín, Monte Ralo, Soconcho y Calmayo. Trabajadorxs rurales organizados que trabajan principalmente en unidades productivas como huertas comunitarias y gallineros, pero también en producción vacuna, porcina, ovina, apicultura, cunicultura. Además, la integran cooperativas de trabajo textil, de reciclado y cuadrillas de construcción.
 
-![](https://i.imgur.com/4kuOHFl.jpg)
+{% youtube 'rV0Mlh_JwtM', 'Recuperación del edificio del ex casino de Suboficiales, Hoy Refugio Libertad' %}
 
 Su sede central es el edificio donde funcionó el casino de Suboficiales cuando el predio se constituía como el Grupo de Artillería 141 de José de La Quintana.
 En 2018 se comenzó a recuperar con mucho esfuerzo y trabajo por parte de los miembros de Traut.

@@ -11,8 +11,7 @@ youtube: true
 
 La Escuela Nacional de Organización Comunitaria y Economía Popular (ENOCEP) es un espacio de formación con el objetivo de fortalecer a los movimientos populares contribuyendo a la formación de trabajadores y trabajadoras de la economía popular, dirigentes y militantes. Es una inicitativa del Movimiento de Trabajadores Excluídos **MTE**.
 
-Actualmente existen Cinco sedes en San Martín de los Andes (Neuquén), Isla Silvia (Tigre, Buenos Aires), Tilcara (Jujuy),  Puerto Libertad (Misiones) y **Refugio Libertad (Córdoba)**
-donde se ofrecen cursos de formación profesional en oficios, trabajo, organización comunitaria y economía popular. El lugar donde se desarrollan los cursos importa, es por eso que las sedes se ubican en lugares hermosos que tiene nuestro país, pero que lamentablemente muchas veces se tornan inaccesibles para gran parte de nuestro pueblo excluido que vive mayormente hacinados en los costados de las urbes.
+Actualmente existen Cinco sedes en San Martín de los Andes (Neuquén), Isla Silvia (Tigre, Buenos Aires), Tilcara (Jujuy),  Puerto Libertad (Misiones) y **Refugio Libertad (Córdoba)** donde se ofrecen cursos de formación profesional en oficios, trabajo, organización comunitaria y economía popular. El lugar donde se desarrollan los cursos importa, es por eso que las sedes se ubican en lugares hermosos que tiene nuestro país, pero que lamentablemente muchas veces se tornan inaccesibles para gran parte de nuestro pueblo excluido que vive mayormente hacinados en los costados de las urbes.
 
 Desde su creación, más de 1.700 compañeros y compañeras se han formado en las escuelas nacionales.
 
