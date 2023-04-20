@@ -5,9 +5,14 @@
     "icon": "twitter.svg"
   },
   {
-    "platform": "face",
+    "platform": "facebook",
     "url": "https://facebook.com/TrabajadoresUnidosporlaTierra",
     "icon": "facebook.svg"
+  },
+  {
+    "platform": "instagram",
+    "url": "https://instagram.com/TrabajadorasUnidasPorLaTierra",
+    "icon": "instagram.svg"
   },
   {
     "platform": "rss",
