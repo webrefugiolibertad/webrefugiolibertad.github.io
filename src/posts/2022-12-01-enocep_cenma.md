@@ -7,6 +7,8 @@ youtube: true
 
 #### Escuela Nacional de Organización Comunitaria y Economía Popular - ENOCEP
 
+![](https://i.imgur.com/2zHWeLA.jpg)
+
 La Escuela Nacional de Organización Comunitaria y Economía Popular (ENOCEP) es un espacio de formación con el objetivo de fortalecer a los movimientos populares contribuyendo a la formación de trabajadores y trabajadoras de la economía popular, dirigentes y militantes. Es una inicitativa del Movimiento de Trabajadores Excluídos **MTE**.
 
 Actualmente existen Cinco sedes en San Martín de los Andes (Neuquén), Isla Silvia (Tigre, Buenos Aires), Tilcara (Jujuy),  Puerto Libertad (Misiones) y **Refugio Libertad (Córdoba)**
@@ -52,7 +54,5 @@ por Anabella Antonelli
 #### CENMA
 
 Desde el año 2022 funciona un Centro Educativo de Nivel Medio para Adultos (CENMA), dependiente del CENMA SMATA y con el aporte voluntario de docentes de los pueblos, en el que un número cada vez mayor de estudiantes vuelven al sistema educativo y a las posibilidades que la certificación de estudios les da. Asimismo se proponen espacios de formación en oficios, además de aquellos que hacen a las actividades propias de la organización.
-
-![](https://i.imgur.com/2zHWeLA.jpg)
 
 {% youtube '05sZ92glxtk', 'El Cenma del Refugio Libertad' %}

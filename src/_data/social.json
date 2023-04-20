@@ -15,6 +15,11 @@
     "icon": "instagram.svg"
   },
   {
+    "platform": "mail",
+    "url": "mailto:TrabajadorasUnidasPorLaTierra@gmail.com",
+    "icon": "mail.svg"
+  },
+  {
     "platform": "rss",
     "url": "/feed.xml",
     "icon": "rss.svg"
