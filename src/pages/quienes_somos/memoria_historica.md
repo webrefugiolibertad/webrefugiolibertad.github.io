@@ -35,8 +35,6 @@ En Abril de 2019, el ex conscripto Carlos Vera regresó tras 43 años al  Ex-GA1
 Ver más:
 {% youtube 'ns-UwcE8ogA', 'Causa Agustín Vera - Ex Grupo de Artillería 141- José de La Quintana' %}
 
-https://youtu.be/ns-UwcE8ogA
-
 Leer más:
 https://lmdiario.com.ar/noticia/15956
 
