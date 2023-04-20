@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://localhost:8080/">
   <title>Refugio Libertad</title>
-  <subtitle>Trabajadores Unidos por la Tierra. Refugio Libertad - Una experiencia de Tierra, Techo y Trabajo.</subtitle>
+  <subtitle>Trabajadores Unidos por la Tierra. Refugio Libertad - Una experiencia de Tierra, Techo, Trabajo y Conectividad.</subtitle>
   <link href="http://localhost:8080/feed.xml" rel="self" />
   <link href="http://localhost:8080/" />
   
