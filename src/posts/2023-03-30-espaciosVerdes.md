@@ -2,6 +2,7 @@
 title: 'Espacios Verdes y Grupo de Energía Solar'
 description: 'Relevamiento de la cátedra de espacios verdes y del grupo de energía solar (UNRC).'
 date: 2023-03-30
+fecha: 30 de marzo de 2023
 ---
 
 **Relevamiento en el Refugio Libertad por parte de integrantes de la cátedra de Espacios Verdes (Facultad de Agronomía y Veterinaria) y del Grupo de Energía Solar (Facultad de Ingeniería)**

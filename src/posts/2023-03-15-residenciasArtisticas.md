@@ -2,6 +2,7 @@
 title: 'Residencias Artísticas'
 description: 'En el mes de marzo se realizó la primera Residencia Artística en el Refugio Libertad.'
 date: 2023-03-15
+fecha: 15 de marzo de 2023
 ---
 
 ![](https://i.imgur.com/KGNpN8y.jpg)

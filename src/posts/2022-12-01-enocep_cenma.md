@@ -2,6 +2,7 @@
 title: 'ENOCEP - CENMA'
 description: 'La Escuela Nacional de Organización Comunitaria y Economía Popular (ENOCEP) es un espacio de formación con el objetivo de fortalecer a los movimientos populares.'
 date: 2022-12-01
+fecha: 01 de diciembre de 2022
 youtube: true
 ---
 

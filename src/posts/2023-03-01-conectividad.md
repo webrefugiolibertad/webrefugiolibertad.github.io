@@ -2,6 +2,7 @@
 title: 'Conectividad en el Refugio Libertad'
 description: 'El Equipo de Infraestructura Digital de Traut está formado por Germán Ferrero, Joaquín Godoy y Marcela Juarez.'
 date: 2023-01-01
+fecha: 01 de enero de 2023
 ---
 
 ![](https://refugio.libre.org.ar/conectividad/fotos_taller_fo/socTXjo.jpg)

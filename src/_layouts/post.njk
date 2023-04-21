@@ -13,7 +13,8 @@ preloads:
     <!-- <h1 class="gradient-text">{{ title }}</h1> -->
     <h1>{{ title }}</h1>
 
-    {% set definedDate = date %} {% include "partials/date.njk" %}
+    <!-- {% set definedDate = date %} {% include "partials/date.njk" %} -->
+    <p>{{ fecha }}</p>
 
     {{ content | safe }}
   </div>

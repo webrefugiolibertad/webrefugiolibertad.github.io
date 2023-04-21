@@ -4,6 +4,7 @@ seo:
   title: Refugio Libertad
 description: 'Una experiencia de Tierra, Techo, Trabajo y Conectividad.'
 date: 2022-11-01
+fecha: '01 de noviembre de 2022'
 ---
 
 ![](https://i.imgur.com/AP44nS1.jpg)

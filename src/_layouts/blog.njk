@@ -14,7 +14,7 @@ layout: base
   <!-- {% include 'svg/divider-edgy.svg' %} -->
 </header>
 
-<article class="wrapper region">
+<!-- <article class="wrapper region"> -->
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     {% set postslist = collections.posts %} {% for post in postslist %}
 
@@ -23,9 +23,10 @@ layout: base
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h2>
       <!-- {% set definedDate = post.date %} {% include "partials/date.njk" %} -->
+      <p>{{ post.data.fecha }}</p>
       <p>{{ post.data.description }}</p>
     </li>
 
     {% endfor %}
   </ul>
-</article>
+<!-- </article> -->
