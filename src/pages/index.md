@@ -3,9 +3,6 @@ permalink: /index.html
 title: ' Refugio Libertad'
 description: 'Una experiencia de Tierra, Techo, Trabajo y Conectividad.'
 layout: 'home'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
 ![](https://i.imgur.com/NzIh12v.jpg)
