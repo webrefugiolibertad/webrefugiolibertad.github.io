@@ -31,37 +31,9 @@
   }
 </script>
  
-    <!-- include blogpost schema  --><script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "mainEntityOfPage": {
-      "@type": "WebPage"
-    },
-    "isPartOf": {
-      "@id": "http://localhost:8080#website"
-    },
-    "@id": "",
-    "headline": "Quienes Somos",
-    "description": "Una experiencia de Tierra, Techo, Trabajo y Conectividad.",
-    "image": "http://localhost:8080/assets/images/opengraph-default.jpg",
-    "inLanguage": "es_AR",
-    "publisher": {
-      "@type": "Person",
-      "name": "dbellomo",
-      "url": "http://localhost:8080"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "dbellomo"
-    },
-    "datePublished": "2022-11-01T00:00:00.000Z"
-  }
-</script>
- 
 
     <!-- synchronous css / inline css  -->
-    <link rel="stylesheet" href="/assets/css/global.css?a613-e497-d40d" />
+    <link rel="stylesheet" href="/assets/css/global.css?e524-127d-2fa5" />
 
     <!-- preloads -->
     <link
@@ -87,16 +59,10 @@
     />
 
     <!-- preloads in page data -->
-    <!-- prettier-ignore -->
-    <link rel="preload"
-            href="/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2"
-            as="font"
-            type=font/woff2
-            crossorigin />
     
 
     <!-- defered js  -->
-    <script type="module" src="/assets/scripts/app.js?a613-e497-d40d" defer></script>
+    <script type="module" src="/assets/scripts/app.js?e524-127d-2fa5" defer></script>
 
     <!-- everything else: meta tags, icons, open graph etc.  -->
     <base href="/blog/quienes-somos/" />
@@ -133,7 +99,7 @@
 />
 <meta
   property="og:image"
-  content="http://localhost:8080/assets/images/social-preview/quienes-somos-preview.jpeg
+  content="http://localhost:8080/assets/images/opengraph-default.jpg
   "
 />
 <meta
@@ -240,17 +206,36 @@
 
     <!-- content slot -->
     <main id="main" class="flow">
-<article class="region blog">
-  <div class="wrapper flow prose">
-    <!-- <h1 class="gradient-text">Quienes Somos</h1> -->
-    <h1>Quienes Somos</h1>
-
-    <!--  <time datetime="2022-11-01T00:00:00.000Z">
-  November 1, 2022
-</time>
+<header class="section spot-color-primary">
+  <div class="section__inner">
+    <div class="wrapper flow region">
+      <h1 class="text-center">Quienes Somos</h1>
+    </div>
+  </div>
+<!-- <svg
+  class="seperator"
+  preserveAspectRatio="none"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1440 320"
+>
+  <path
+    d="M0,320L48,32L96,32L144,224L192,256L240,0L288,192L336,288L384,224L432,128L480,256L528,32L576,96L624,64L672,64L720,160L768,32L816,192L864,128L912,128L960,32L1008,224L1056,160L1104,0L1152,64L1200,256L1248,64L1296,224L1344,160L1392,96L1440,32L1440,0L1392,0L1344,0L1296,0L1248,0L1200,0L1152,0L1104,0L1056,0L1008,0L960,0L912,0L864,0L816,0L768,0L720,0L672,0L624,0L576,0L528,0L480,0L432,0L384,0L336,0L288,0L240,0L192,0L144,0L96,0L48,0L0,0Z"
+  ></path>
+</svg>
  -->
-    <p>01 de noviembre de 2022</p>
+</header>
 
+<!--
+<article class="region" style="--region-space-top: var(--space-s)">
+  <div class="wrapper flow prose"> -->
+    <!-- <h2></h2> -->
+    <!-- blog intro text is optional. -->
+    <!--  -->
+<!--  </div> -->
+  <!-- TODO: duplicate of partials/blog.njk -->
+
+<article class="region">
+  <div class="wrapper flow prose">
     <p><img src="https://i.imgur.com/AP44nS1.jpg" alt=""></p>
 <p>El Refugio Libertad es un campo comunitario que trabajamos y gestionamos distintas familias, trabajadoras y trabajadores de distintas localidades como Los Molinos, Villa San Isidro y José de la Quintana. Aquí se desarrollan distintas unidades productivas de diversos tipos: vacunas, porcinas, ovinas, agricultura, apicultura, cunicultura, de huerta, etc.<br>
 Además, el refugio libertad se constituye como un espacio comunitario que venimos construyendo diariamente, recuperando el predio del abandono y habitándolo de actividades y proyectos culturales, de formación y educación. Hoy uno de los edificios se constituyó como la sede  de la Región Centro de la Escuela Nacional de Organización Comunitaria y de la Economía Popular (ENOCEP), que es la escuela de formación de la UTEP.</p>
@@ -265,42 +250,56 @@ Además, el refugio libertad se constituye como un espacio comunitario que venim
 <p>Además, en el sector de la agricultura familiar los que acceden a la tierra muy mayoritariamente son hombres y el sector de la agricultura familiar cuenta con un protagonismo enorme de las mujeres. Entonces también ese debate tenemos que darlo, garantizar el acceso a la tierra para las agriculturas, para las campesinas, para las trabajadoras rurales, y que no sea más la propiedad de la tierra un lugar de dependencia para ellas.</p>
 <p><img src="https://i.imgur.com/7wgqkSs.jpg" alt=""></p>
 <h3 id="el-proyecto-refugio-libertad"><a class="heading-anchor" href="#el-proyecto-refugio-libertad">El Proyecto Refugio Libertad</a></h3>
+
+
 <!-- <article class="wrapper region"> -->
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-<p><li class="card flow overflow-hidden"><br>
-<h2><br>
-<a href="alimentos_sanos">Producción de Alimentos Sanos</a><br>
-</h2><br>
-<p>La producción agroecológica de alimentos sanos, en el marco de la economía popular, con objetivos de seguridad y soberanía alimentaria.</p><br>
-</li></p>
-<p><li class="card flow overflow-hidden"><br>
-<h2><br>
-<a href="memoria_historica">La reconstrucción de la memoria histórica</a><br>
-</h2><br>
-<p>Durante la década del 40’ se construyó en el predio una fábrica de pólvora que nunca inició su funcionamiento</p><br>
-</li></p>
-<p><li class="card flow overflow-hidden"><br>
-<h2><br>
-<a href="organizacion_comunitaria">La organización comunitaria, el desarrollo socio-cultural y la formación popular</a><br>
-</h2><br>
-<p>Trabajadores Unidos por la Tierra (TRAUT) es una organización de trabajadoras y trabajadores rurales del sur de Córdoba.</p><br>
-</li></p>
-<p><li class="card flow overflow-hidden"><br>
-<h2><br>
-El cuidado del territorio y los bienes comunes<br>
-</h2><br>
-<p>Especialmente el cuidado del río y del monte nativo (en la provincia de Córdoba queda solamente el 3%), por lo que se promueve la creación de un Área Campesina en la totalidad del predio, de modo que el mismo no pueda ser utilizado con fines que pongan en riesgo la flora y la fauna nativa, sino que toda actividad que se desarrolle sea en el marco del cuidado del territorio.</p><br>
-</li></p>
-<p><li class="card flow overflow-hidden"><br>
-<h2><br>
-El acompañamiento a personas con consumo problemático de sustancias<br>
-</h2><br>
-<p>El edificio de la ex-Mayoría está siendo recuperado de manera conjunta con el Hogar de Cristo – Centro Barrial Madre de la Esquina (barrio Suárez, Córdoba capital) como espacio destinado específicamente a este fin.</p><br>
-</li></p>
+
+    <li class="card flow overflow-hidden">
+      <h2>
+        <a href="alimentos_sanos">Producción de Alimentos Sanos</a>
+      </h2>
+      <p>La producción agroecológica de alimentos sanos, en el marco de la economía popular, con objetivos de seguridad y soberanía alimentari
+a.</p>
+    </li>
+
+    <li class="card flow overflow-hidden">
+      <h2>
+        <a href="memoria_historica">La reconstrucción de la memoria histórica</a>
+      </h2>
+      <p>Durante la década del 40’ se construyó en el predio una fábrica de pólvora que nunca inició su funcionamiento</p>
+    </li>
+
+    <li class="card flow overflow-hidden">
+      <h2>
+        <a href="organizacion_comunitaria">La organización comunitaria, el desarrollo socio-cultural y la formación popular</a>
+      </h2>
+      <p>Trabajadores Unidos por la Tierra (TRAUT) es una organización de trabajadoras y trabajadores rurales del sur de Córdoba.</p>
+    </li>
+
+    <li class="card flow overflow-hidden">
+      <h2>
+       El cuidado del territorio y los bienes comunes 
+      </h2>
+      <p>Especialmente el cuidado del río y del monte nativo (en la provincia de Córdoba queda solamente el 3%), por lo que se promueve la cre
+ación de un Área Campesina en la totalidad del predio, de modo que el mismo no pueda ser utilizado con fines que pongan en riesgo la flora y l
+a fauna nativa, sino que toda actividad que se desarrolle sea en el marco del cuidado del territorio.</p> 
+    </li>
+
+    <li class="card flow overflow-hidden">
+      <h2>
+       El acompañamiento a personas con consumo problemático de sustancias 
+      </h2>
+      <p>El edificio de la ex-Mayoría está siendo recuperado de manera conjunta con el Hogar de Cristo – Centro Barrial Madre de la Esquina (b
+arrio Suárez, Córdoba capital) como espacio destinado específicamente a este fin.</p> 
+    </li>
+
   </ul>
 <!-- </article> -->
 
   </div>
+</article>
+
 </article>
 </main>
 
