@@ -26,7 +26,7 @@ El sábado y el domingo realizamos practicas de experiencias situadas en algunos
 ![](https://i.imgur.com/gLq8Hxy.jpg)
 
 Tambien trabajamos en la composición de un semimontado que estaremos compartiendo en cualquier momento
-En la noche del sábado, tuvimos en desmontaje del ensayo general de la obra “Hoy es siempre todavia” de @distanciasminimas.project, el proyecto residente invitado que termino de montarse durante la residencia. Todas las narrativas surgidas en torno a los archivos propios y los colectivos, se vieron reflejados en el intercambio y el debate con esta obra.
+En la noche del sábado, tuvimos en desmontaje del ensayo general de la obra “Hoy es siempre todavia” de [@distanciasminimas.project](https://www.instagram.com/distanciasminimas.project/), el proyecto residente invitado que termino de montarse durante la residencia. Todas las narrativas surgidas en torno a los archivos propios y los colectivos, se vieron reflejados en el intercambio y el debate con esta obra.
 El domingo fue una despedida intensa y calma, habitando las paradojas del sitio.
 Gracias a todxs y cada unx de las personas que se hicieron presentes.
 
