@@ -23,13 +23,13 @@ Somos mayoritariamente mujeres y, junto con nuestros compañeros, estamos compro
 
 ![](https://i.imgur.com/GgBgAU3.jpg)
 
-**Refugio Cultural**
+#### Refugio Cultural
 
 ![](https://i.imgur.com/lurhpUf.jpg)
 
 Actualmente funciona en el predio la iniciativa Refugio Cultural, que promueve actividades educativas, de formación para trabajadores, actividades culturales y sociocomunitarias  abiertas a las familias de las comunidades vecinas.
 
-En la sede del ex-casino se desenvuelven actualmente dos proyectos educativos, **Enocep y Cenma**.
+En la sede del ex-casino se desenvuelven actualmente dos proyectos educativos, [Enocep y Cenma](/blog/enocep-cenma/).
 
 ![](https://i.imgur.com/h3VoFXN.jpg)
 
