@@ -43,3 +43,14 @@ Anualmente suceden en el refugio diversas actividades culturales organizadas por
 ![](https://i.imgur.com/4IfyafL.jpg)
 
 ![](https://i.imgur.com/r35KwM3.jpg)
+
+<figure>
+    <figcaption>charla en la biblio</figcaption>
+    <audio
+        controls
+        src="https://archive.org/download/lpmr-802-atahualpa-yupanki/LPMR%20802%20ATAHUALPA%20YUPANKI.mp3">
+            <a href="https://archive.org/download/lpmr-802-atahualpa-yupanki/LPMR%20802%20ATAHUALPA%20YUPANKI.mp3">
+                Download audio
+            </a>
+    </audio>
+</figure>
