@@ -5,8 +5,8 @@ module.exports = {
       url: '/quienes_somos/'
     },
     {
-      text: 'Concursos de Precios',
-      url: '/concursos_precios/'
+      text: 'Concurso de Precios',
+      url: '/concursoprecios/'
     },
     {
       text: 'Blog',

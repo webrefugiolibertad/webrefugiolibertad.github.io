@@ -2,7 +2,7 @@
 title: Concursos de Precios
 seo:
   title: Refugio Libertad
-permalink: /concursos_precios/index.html
+permalink: /concursoprecios/index.html
 description: 'Una experiencia de Tierra, Techo, Trabajo y Conectividad.'
 layout: page
 ---
