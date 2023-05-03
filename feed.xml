@@ -5,12 +5,35 @@
   <link href="http://localhost:8080/feed.xml" rel="self" />
   <link href="http://localhost:8080/" />
   
-  <updated>2023-03-30T00:00:00Z</updated>
+  <updated>2023-05-03T00:00:00Z</updated>
   <id>http://localhost:8080/</id>
   <author>
     <name>dbellomo</name>
     <email>tjd8n42b@duck.com</email>
   </author>
+  <entry>
+    <title>Cenma 2023 Nuevos Desafíos</title>
+    <link href="http://localhost:8080/blog/cenma-2023-nuevos-desafios/" />
+    <updated>2023-05-03T00:00:00Z</updated>
+    <id>http://localhost:8080/blog/cenma-2023-nuevos-desafios/</id>
+    <content
+      xml:lang=""
+      type="html"
+      >&lt;h4 id=&quot;este-ano-el-cenma-cuenta-con-mas-de-50-alumnos&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/cenma-2023-nuevos-desafios/#este-ano-el-cenma-cuenta-con-mas-de-50-alumnos&quot;&gt;Este año el cenma cuenta con más de 50 alumnos&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/d53EW3c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;El año 2023, encuentra al Cenma Refugio Libertad organizándose y consolidando prioridades y principios.&lt;br /&gt;
+Este año comenzó con una asamblea de estudiantes donde se debatieron y consensuaron los contenidos y modos de trabajo para el año lectivo, a partir de una evaluación de lo realizado en el año anterior.&lt;br /&gt;
+La incorporación de dos nuevas profesoras voluntarias, ha traìdo nuevos aires y especificidad a las asignaturas. De este modo, conformamos un equipo de trabajo docente de diez tutores, quienes nos ocupamos de acordar trabajos, construir nuevos documentos y cuadernillos, exponer los temas presencialmente, acompañar el  trabajo disciplinar, así como realizar devoluciones y correcciones.&lt;/p&gt;
+&lt;p&gt;La hora de clase, magistral o participativa, siempre con producciones, se transforma en ventanas hacia mundos inexplorados, que permiten mirar en otras direcciones. En silencio, compañía, con preguntas, miramos juntxs esos mundos que los contenidos escolares nos proponen, para pensarnos también a nosotrxs mismxs.&lt;/p&gt;
+&lt;p&gt;Matemáticas, lengua e inglés, ciencias naturales y sociales, toman su protagonismo secuenciándose,  en distintas aulas que hemos logrado armar con el  aporte del refugio y de mucha gente que apuesta por el proyecto. Desde los fibrones, copias, pizarrones, hasta las sillas, son parte de pequeños pasos que damos en la construcción del espacio.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/RqFffEO.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;El trabajo del año 2022 y del presente, traen expectativas sobre la posibilidad de tener cerca a lxs primeros egresadxs. Además y si bien no se ha realizado todavía una convocatoria abierta, hemos recibido casi veinte nuevas inscripciones para distintos niveles de la cursada, con lo que superaremos ya los cincuenta estudiantes.&lt;/p&gt;
+&lt;p&gt;Continuamos con el apoyo del  cenma smata córdoba, quienes nos acogen en el marco de su propuesta, tomando exámenes y acreditando asistencias, prácticos y pruebas finales, lo que garantizará la titulación pronta.&lt;/p&gt;
+&lt;p&gt;Con un grupo de estudiantxs que ha logrado un enorme capital no solamente en el aprendizaje de cada materia, sino en apropiándose en su oficio de alumnx, de sus derechos y capacidades para hacer propuestas, caminamos juntxs el segundo año del  Cenma smata que seguramente, es uno de los primeros de muchos hermosos años que vendrán.&lt;/p&gt;
+&lt;p&gt;Silvia Kowalczuk&lt;/p&gt;
+</content
+    >
+  </entry>
   <entry>
     <title>Espacios Verdes y Grupo de Energía Solar</title>
     <link href="http://localhost:8080/blog/espacios-verdes-y-grupo-de-energia-solar/" />
