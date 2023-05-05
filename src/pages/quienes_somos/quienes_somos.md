@@ -20,11 +20,7 @@ El Refugio Libertad funciona en el predio del ex-Grupo 141 de Artillería del Ej
 
 <iframe width="100%" height="680px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/es/map/refugio-libertad_639406?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false"></iframe>
 
-<div class="buttons are-large">
-    <a href="https://umap.openstreetmap.fr/es/map/refugio-libertad_639406" class="button is-success is-rounded is-fullwidth">
-        Ver en pantalla completa
-    </a>
-</div>
+[Ver en pantalla completa](https://umap.openstreetmap.fr/es/map/refugio-libertad_639406)
 
 ### Infografía
 
