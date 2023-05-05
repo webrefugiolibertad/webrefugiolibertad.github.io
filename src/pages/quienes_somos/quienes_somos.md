@@ -18,7 +18,17 @@ El refugio tambien es cultural, identitario. El refugio cultural alberga activid
 
 El Refugio Libertad funciona en el predio del ex-Grupo 141 de Artillería del Ejército, dependiente de la Dirección de Fabricaciones Militares (puntualmente de la Fábrica Militar de Río Tercero) del Ministerio de Defensa. Se trata de un predio localizado en una zona rural a 55km al sur de la ciudad de Córdoba. El mismo tiene aproximadamente 880 hectáreas que en su mayoría (cerca de 800 hectáreas) son de extensión serrana y monte nativo (“zona roja” según la Ley de Ordenamiento Territorial del Bosque Nativo); se ubica en la margen norte del Río Los Molinos llegando hasta el Dique de José de la Quintana. Y colinda con las localidades y ejidos de José de la Quintana (al norte y noroeste), Villa San Isidro (al noreste) y Los Molinos (al sur); todas ellas de menos de 1000 habitantes.
 
-![](https://refugio.libre.org.ar/infografia.jpeg)
+<iframe width="100%" height="680px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/es/map/refugio-libertad_639406?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false"></iframe>
+
+<div class="buttons are-large">
+    <a href="https://umap.openstreetmap.fr/es/map/refugio-libertad_639406" class="button is-success is-rounded is-fullwidth">
+        Ver en pantalla completa
+    </a>
+</div>
+
+### Infografía
+
+![infografía](/assets/images/infografia.jpeg)
 
 ### ¿Por qué surgimos?
 
