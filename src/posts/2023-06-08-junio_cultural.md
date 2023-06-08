@@ -19,14 +19,13 @@ fecha: '08 de junio de 2023'
 
 [Reserva tu entrada](https://forms.gle/RRcrbd38cgs5aQui6)
 
-**SINOPSIS**
+#### SINOPSIS
 
 Un museo de una guerra, en alguna época en derrumbe, es visitado por los sobrevivientes, presencias y ausencias que retornan a la memoria colectiva que los recuerda.
 
-Planteada como una instalación teatral en el histórico Grupo de Artillería 141 de José de la Quintana, hoy declarado Sitio de Memoria y rebautizado Refugio Libertad, La Sombra de
- un cuerpo que vuelve, invita a revisitar la historia de la guerra de Malvinas desde metáforas que permitan recordar y accionar la memoria desde otros imaginarios posibles.
+Planteada como una instalación teatral en el histórico Grupo de Artillería 141 de José de la Quintana, hoy declarado Sitio de Memoria y rebautizado Refugio Libertad, La Sombra de un cuerpo que vuelve, invita a revisitar la historia de la guerra de Malvinas desde metáforas que permitan recordar y accionar la memoria desde otros imaginarios posibles.
 
-**ESPECTÁCULO APTO PARA MAYORES DE 13 AÑOS**
+#### ESPECTÁCULO APTO PARA MAYORES DE 13 AÑOS
 
 - En escena: Gabriel Mahieu, Juan Ignacio Manzi
 - Asistencia de Dirección: Sofía Grimaux
@@ -36,11 +35,11 @@ Planteada como una instalación teatral en el histórico Grupo de Artillería 14
 
 ## Encuentro de Mural y Arte Impreso
 
-**SABADO 10**
+#### SABADO 10
 
 Estaremos desde las 10 hs muraleando con Vale Volando, Chaka, Pablo Cerámik, Imán (Luciana Muñoz), Un brujito, Eva Galasso, Jael Airasca y Raúl Soria
 
-**DOMINGO 11**
+#### DOMINGO 11
 
 - Desde las 12 hs Gran cierre con Churrinche Feria de arte impreso
 - Feria de productor@s de la zona
@@ -48,7 +47,7 @@ Estaremos desde las 10 hs muraleando con Vale Volando, Chaka, Pablo Cerámik, Im
 - INAUGURACIÓN de murales
 - Buffet popular
 
-**Musica en vivo con**:
+#### Musica en vivo con
 
 - Una Yunta Marañá
 - Duo Corasonando
@@ -58,11 +57,11 @@ Estaremos desde las 10 hs muraleando con Vale Volando, Chaka, Pablo Cerámik, Im
 
 # REFUGIO - Residencias artísticas en territorio
 
-**SEGUNDA EDICIÓN**
+#### SEGUNDA EDICIÓN
 
 ## Componer en paralelo Experiencia compositiva entre movimiento y neurociencia
 
-Vamos a iniciar la investigación-exploración desde la siguiente premisa:  PERCIBIR ES INTERPRETAR
+Vamos a iniciar la investigación-exploración desde la siguiente premisa:  PERCIBIR ES INTERPRETAR.
 
 Explorar y ampliar los caminos de la percepción y la asociación al momento de componer.
 
