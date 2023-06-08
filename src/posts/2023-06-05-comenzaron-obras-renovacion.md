@@ -48,3 +48,5 @@ Hoy es el día de inicio, la primera jornada de trabajo de este gran recorrido q
 ![](/assets/images/2023-06-05-comenzaron-obras-renovacion/Secuencia_02.00_06_35_11.Imagen_fija002.jpg)
 
 Para poder iniciar las obras fue necesario relevar y realizar planos de los edificios del predio y esta tarea estuvo a cargo de Mariel quien estará supervisando  las obras. Esta primera etapa tendrá una duración de 60 días. La recuperación y refuncionalización de los edificios del Refugio Libertad se realiza con financiamiento del programa Desarrollo Armónico con Equilibrio Territorial del Consejo económico y Social de La Nación.
+
+La cooperativa de construcción construyendo futuro está formada por diez trabajadoras y trabajadores: Antonio Basualdo, Darío Basualdo, Juan Eduardo Basualdo, Ricardo Quinteros,Gastón Quinteros, María Belén Bustos, Soledad Liendo, Ricardo Benegas, Beatriz Lenoch y Gimena Ludueña.
