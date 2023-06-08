@@ -1,6 +1,6 @@
 ---
 title: Junio en el Refugio Cultural
-description: 'actividades culturales: La sombra de un cuerpo que vuelve, El Refu se pinta y Residencias artísticas en territorio'
+description: 'actividades culturales: La sombra de un cuerpo que vuelve, El Refu se pinta y Residencias artísticas en territorio.'
 date: 2023-06-08
 fecha: '08 de junio de 2023'
 ---
@@ -23,7 +23,7 @@ fecha: '08 de junio de 2023'
 
 Un museo de una guerra, en alguna época en derrumbe, es visitado por los sobrevivientes, presencias y ausencias que retornan a la memoria colectiva que los recuerda.
 
-Planteada como una instalación teatral en el histórico Grupo de Artillería 141 de José de la Quintana, hoy declarado Sitio de Memoria y rebautizado Refugio Libertad, La Sombra de un cuerpo que vuelve, invita a revisitar la historia de la guerra de Malvinas desde metáforas que permitan recordar y accionar la memoria desde otros imaginarios posibles.
+Planteada como una instalación teatral en el histórico Grupo de Artillería 141 de José de la Quintana, hoy declarado Sitio de Memoria y rebautizado Refugio Libertad, **La Sombra de un cuerpo que vuelve**, invita a revisitar la historia de la guerra de Malvinas desde metáforas que permitan recordar y accionar la memoria desde otros imaginarios posibles.
 
 #### ESPECTÁCULO APTO PARA MAYORES DE 13 AÑOS
 
