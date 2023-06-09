@@ -18,7 +18,7 @@
     fill="#DD4462"
     letter-spacing="-1"
   >
-    <tspan x="160" y="90">
+    <tspan x="160" y="130">
       04 / 05 / 2023
     </tspan>
   </text>
@@ -33,20 +33,16 @@
     letter-spacing="-3"
   >
     
-    <tspan x="160" y="190">
+    <tspan x="160" y="230">
       Biblioteca
     </tspan>
     
-    <tspan x="160" y="270">
+    <tspan x="160" y="310">
       Margarita
     </tspan>
     
-    <tspan x="160" y="350">
-      Zeniquel -
-    </tspan>
-    
-    <tspan x="160" y="430">
-      Refugio Cultural
+    <tspan x="160" y="390">
+      Zeniquel
     </tspan>
     
   </text>
