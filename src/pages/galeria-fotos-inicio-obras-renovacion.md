@@ -1,12 +1,11 @@
 ---
-title: Galería de fotos
+title: Obras de renovación de los edificios 
 permalink: /galeria-fotos-inicio-obras-renovacion/index.html
 description: 
 layout: page
 ---
 
-![](/assets/images/galeria_fotos_inicio_obras_renovacion/)
-
+### Galería de fotos
 
 ![](/assets/images/galeria_fotos_inicio_obras_renovacion/Secuencia_02.00_06_35_11.Imagen_fija002.jpg)
 ![](/assets/images/galeria_fotos_inicio_obras_renovacion/Secuencia_02.00_07_04_03.Imagen_fija003.jpg)
