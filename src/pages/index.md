@@ -5,7 +5,8 @@ description: 'Una experiencia de Tierra, Techo, Trabajo y Conectividad.'
 layout: 'home'
 ---
 
-![](https://i.imgur.com/NzIh12v.jpg)
+![](/src/assets/images/index/NzIh12v.jpg)
+
 
 Somos una organización de trabajadores y trabajadoras de la economía popular que habitamos en pequeños pueblos y zonas rurales de los departamentos Calamuchita y Santa María, provincia de Córdoba (Argentina). En 2018 recuperamos el predio del exGrupo de Artillería 141 -ubicado entre Villa San Isidro, José de la Quintana y Los Molinos- y logramos el permiso de uso legal otorgado por la Agencia Administradora de Bienes del Estado (AABE), en alianza con la Cooperativa Madre de la Esquina del Hogar de Cristo y la Fundación Effetá. Allí gestamos el Refugio Libertad, un campo comunitario donde producimos alimentos sanos y creamos trabajo para más de 50 familias, con cuidado del territorio y el ambiente (ganadería mayor y menor, producción de forrajes y granos, horticultura, apicultura, cunicultura, reciclado, recuperación de infraestructura abandonada, entre otras).
 
