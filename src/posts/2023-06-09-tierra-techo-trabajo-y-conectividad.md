@@ -5,6 +5,8 @@ date: 2023-06-09
 fecha: '09 de junio de 2023'
 ---
 
+![](/assets/images/2023-06-09-tierra-techo-trabajo-y-conectividad/w2lWmoZ.jpg)
+
 ¿Es posible construir una Internet más humana y menos pensada como una herramienta más de extracción de valor?
 
 ![](/assets/images/2023-06-09-tierra-techo-trabajo-y-conectividad/TTTC-1.png)
