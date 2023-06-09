@@ -1,5 +1,5 @@
 ---
-title: 'Biblioteca Margarita Zeniquel - Refugio Cultural'
+title: 'Biblioteca Margarita Zeniquel'
 description: 'La biblioteca Refugio Cultural Margarita Zeniquel funciona en la Escuela Nacional de Organización Comunitaria y Economía Popular (Enocep).'
 date: 2023-05-04
 fecha: 04 de mayo de 2023
