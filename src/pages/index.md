@@ -16,5 +16,4 @@ En ese camino, asumimos la responsabilidad y el desafío de recuperar y abonar l
 
 Somos mayoritariamente mujeres y, junto con nuestros compañeros, estamos comprometidas/os con la erradicación de la violencia de género y la construcción de alternativas de vida digna para otras mujeres, jóvenes, niñes y otres. Entendemos que para eso necesitamos fortalecer la comunidad y nuestra autonomía, avanzar en soluciones habitacionales y crecer en lo productivo, protegiendo el monte nativo y el río que nos vieron nacer.
 
-Soñamos con un Refugio Libertad abierto a la comunidad y que cuente con el aporte de todos y todas. Ya está sucediendo…
-
+> Soñamos con un Refugio Libertad abierto a la comunidad y que cuente con el aporte de todos y todas. Ya está sucediendo…
