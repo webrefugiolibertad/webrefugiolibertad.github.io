@@ -15,8 +15,7 @@ En el marco de la Convocatoria de Proyectos para el Desarrollo Armónico con Equ
 
 - [Circular modificatoria Nro 1. Equipamiento de Fabrica](https://refugio.libre.org.ar/pliegos/1.CIRCULAR_MODIFICATORIA_EQUIPAMIENTO_DE_FABRICA.pdf)
 
-- [Circular modificatoria Nro 1. Obras de mejora edilicia en unidades productivas e
-infraestructura de uso colectivo, mantenimiento y extensión de servicios](https://refugio.libre.org.ar/pliegos/1.CIRCULAR_MODIFICATORIA_OBRA_SEMILLITAS.pdf)
+- [Circular modificatoria Nro 1. Obras de mejora edilicia en unidades productivas e infraestructura de uso colectivo, mantenimiento y extensión de servicios](https://refugio.libre.org.ar/pliegos/1.CIRCULAR_MODIFICATORIA_OBRA_SEMILLITAS.pdf)
 
 ## Procesos en curso
 
