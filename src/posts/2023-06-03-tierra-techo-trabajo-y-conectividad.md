@@ -29,6 +29,6 @@ Este diálogo entre las redes comunitarias, AlterMundi y las organizaciones rura
 
 > Es pensar la relación entre organización popular y soberanía tecnológica,los desafíos, los logros y las potencialidades. Recuperar las consignas históricas y la necesidad de conectividad en clave de derechos vulnerados. Y cómo, desde las comunidades organizadas y la densidad política de nuestras prácticas y propuestas, luchamos con estos emergentes. Revisar el rol de los monopolios de las telecomunicaciones trazando un paralelismo con el agronegocio. Pensar juntos y juntas otra Internet, nacida desde abajo, en oposición al discurso único predominante. Reconocer los logros de las redes comunitarias de Internet como actor social en el ámbito estatal de las telecomunicaciones.
 
-Tierra, Techo, Trabajo y Conectividad”, es una expresión de esperanza, una apuesta y un compromiso de quienes sabemos construir desde la solidaridad, en un mundo donde para hacerlo hay que disputarle cada metro al poder concentrado y su ambición sin límite.
+**"Tierra, Techo, Trabajo y Conectividad”**, es una expresión de esperanza, una apuesta y un compromiso de quienes sabemos construir desde la solidaridad, en un mundo donde para hacerlo hay que disputarle cada metro al poder concentrado y su ambición sin límite.
 
 [Para leer el artículo completo](https://altermundi.net/wp-content/uploads/2022/11/TTTC.pdf)
