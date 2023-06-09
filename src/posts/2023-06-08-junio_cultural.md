@@ -1,6 +1,6 @@
 ---
 title: Junio en el Refugio Cultural
-description: 'actividades culturales: La sombra de un cuerpo que vuelve, El Refu se pinta y Residencias artísticas en territorio.'
+description: 'Actividades culturales: La sombra de un cuerpo que vuelve, El Refu se pinta y Residencias artísticas en territorio.'
 date: 2023-06-08
 fecha: '08 de junio de 2023'
 ---
@@ -61,7 +61,7 @@ Estaremos desde las 10 hs muraleando con Vale Volando, Chaka, Pablo Cerámik, Im
 
 ## Componer en paralelo Experiencia compositiva entre movimiento y neurociencia
 
-Vamos a iniciar la investigación-exploración desde la siguiente premisa:  PERCIBIR ES INTERPRETAR.
+Vamos a iniciar la investigación-exploración desde la siguiente premisa: PERCIBIR ES INTERPRETAR.
 
 Explorar y ampliar los caminos de la percepción y la asociación al momento de componer.
 
