@@ -1,15 +1,15 @@
 ---
 title: Tierra, techo, trabajo y conectividad
 description: '¿Es posible construir una Internet más humana y menos pensada como una herramienta más de extracción de valor?'
-date: 2023-06-09
-fecha: '09 de junio de 2023'
+date: 2023-06-03
+fecha: '03 de junio de 2023'
 ---
 
-![](/assets/images/2023-06-09-tierra-techo-trabajo-y-conectividad/w2lWmoZ.jpg)
+![](/assets/images/2023-06-03-tierra-techo-trabajo-y-conectividad/w2lWmoZ.jpg)
 
 ¿Es posible construir una Internet más humana y menos pensada como una herramienta más de extracción de valor?
 
-![](/assets/images/2023-06-09-tierra-techo-trabajo-y-conectividad/TTTC-1.png)
+![](/assets/images/2023-06-03-tierra-techo-trabajo-y-conectividad/TTTC-1.png)
 
 Compartimos fragmentos de este interesante Artículo escrito por Nicolás Echaniz de AlterMundi  y Fabricio Puzio de UTEP - Rama Agraria.
 Traen la propuesta de repensar juntos y juntas otra internet, nacida desde las bases, en oposición al discurso único predominante y analizan la realidad social, económica y de acceso a la conectividad desde la perspectiva de las organizaciones populares.
