@@ -1,0 +1,476 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <!-- charset/http-equiv/viewport -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- title -->
+    <title>
+      
+      El Refu se pinta
+      
+    </title>
+
+    <!-- synchronous js / schema  -->
+    <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "http://localhost:8080#website",
+        "url": "http://localhost:8080",
+        "name": "Refugio Libertad",
+        "description": "Refugio Libertad. Una experiencia de Tierra, Techo, Trabajo y Conectividad.",
+        "inLanguage": "es_AR"
+      }
+    ]
+  }
+</script>
+ 
+
+    <!-- synchronous css / inline css  -->
+    <link rel="stylesheet" href="/assets/css/global.css?aa46-0e1b-7731" />
+
+    <!-- preloads -->
+    <link
+      rel="preload"
+      href="/assets/fonts/inter/inter-v7-latin-500.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/assets/fonts/inter/inter-v7-latin-700.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+
+    <!-- preloads in page data -->
+    
+
+    <!-- defered js  -->
+    <script type="module" src="/assets/scripts/app.js?aa46-0e1b-7731" defer></script>
+
+    <!-- everything else: meta tags, icons, open graph etc.  -->
+    <base href="/galeria-fotos-el-refu-se-pinta/" />
+
+<meta
+  name="description"
+  content="
+  
+  Refugio Libertad. Una experiencia de Tierra, Techo, Trabajo y Conectividad.
+  
+  "
+/>
+
+<meta name="theme-color" content="#8fce00" />
+<meta name="robots" content="index,follow" /><!-- All Search Engines -->
+<meta name="googlebot" content="index,follow" /><!-- Google Specific -->
+<meta name="generator" content="Eleventy v2.0.0" /><!-- thank you, Zach -->
+<!-- Disable automatic detection and formatting of possible phone numbers -->
+<meta name="format-detection" content="telephone=no" />
+<!-- Helps prevent duplicate content issues -->
+<link rel="canonical" href="http://localhost:8080/galeria-fotos-el-refu-se-pinta/" />
+
+<!-- Links to information about the author(s) of the document -->
+<link rel="author" href="humans.txt" />
+
+
+
+<!-- Open Graph meta  -->
+<meta property="og:url" content="http://localhost:8080/galeria-fotos-el-refu-se-pinta/" />
+<meta property="og:type" content="website" />
+<meta
+  property="og:title"
+  content="El Refu se pinta"
+/>
+<meta
+  property="og:image"
+  content="http://localhost:8080/assets/images/opengraph-default.jpg
+  "
+/>
+<meta
+  property="og:description"
+  content="Refugio Libertad. Una experiencia de Tierra, Techo, Trabajo y Conectividad."
+/>
+<meta property="og:site_name" content="Refugio Libertad" />
+<meta property="og:locale" content="es_AR" />
+<meta property="article:author" content="dbellomo" />
+
+<!-- Twitter meta -->
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@Traut_Cordoba" />
+ 
+<meta name="twitter:dnt" content="on" />
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="/site.webmanifest" />
+
+  </head>
+
+  <body>
+    <!-- header -->
+    <a href="#main" class="skip-link">Skip to content</a>
+
+<header class="wrapper | relative" role="banner">
+  <div class="site-head | ontop spot-color-primary">
+    
+   <a href="/" class="logo site-head__brand | no-underline" >
+    <img
+    src="/assets/images/favicon/favicon-32x32.png"
+    width="35"
+    alt="Daily Dev Tips Logo"
+  />
+
+      Refugio Libertad
+    </a>
+
+    <nav id="mainnav" class="navbar" aria-label="Main">
+  <ul>
+    
+    <li>
+      <a
+        class="nav"
+        href="/quienes_somos/"
+        
+        >Quienes somos</a
+      >
+    </li>
+    
+    <li>
+      <a
+        class="nav"
+        href="/concursoprecios/"
+        
+        >Concurso de Precios</a
+      >
+    </li>
+    
+    <li>
+      <a
+        class="nav"
+        href="/blog/"
+        
+        >Blog</a
+      >
+    </li>
+    
+  </ul>
+</nav>
+
+<!--  template element holding a button that needs to be injected when JavaScript is finally available. based on an article by Manuel Matuzovic, https://web.dev/website-navigation/, see also https://kittygiraudel.com/2022/09/30/templating-in-html/ -->
+
+<template id="burger-template">
+  <button type="button" aria-expanded="false" aria-label="Menu" aria-controls="mainnav">
+    <span>Menu</span>
+    <svg width="24" height="24" aria-hidden="true">
+      <path
+        fill-rule="evenodd"
+        d="M12 3.75a.75.75 0 01.75.75v6.75h6.75a.75.75 0 010 1.5h-6.75v6.75a.75.75 0 01-1.5 0v-6.75H4.5a.75.75 0 010-1.5h6.75V4.5a.75.75 0 01.75-.75z"
+        clip-rule="evenodd"
+      />
+    </svg>
+  </button>
+</template>
+
+  </div>
+</header>
+
+
+    <!-- content slot -->
+    <main id="main" class="flow">
+<header class="section spot-color-primary">
+  <div class="section__inner">
+    <div class="wrapper flow region">
+      <h1 class="text-center">El Refu se pinta</h1>
+    </div>
+  </div>
+<!-- <svg
+  class="seperator"
+  preserveAspectRatio="none"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1440 320"
+>
+  <path
+    d="M0,320L48,32L96,32L144,224L192,256L240,0L288,192L336,288L384,224L432,128L480,256L528,32L576,96L624,64L672,64L720,160L768,32L816,192L864,128L912,128L960,32L1008,224L1056,160L1104,0L1152,64L1200,256L1248,64L1296,224L1344,160L1392,96L1440,32L1440,0L1392,0L1344,0L1296,0L1248,0L1200,0L1152,0L1104,0L1056,0L1008,0L960,0L912,0L864,0L816,0L768,0L720,0L672,0L624,0L576,0L528,0L480,0L432,0L384,0L336,0L288,0L240,0L192,0L144,0L96,0L48,0L0,0Z"
+  ></path>
+</svg>
+ -->
+</header>
+
+<article class="region">
+  <div class="wrapper flow prose">
+    <!-- <h1 class="gradient-text">El Refu se pinta</h1> -->
+    <!-- <h1>El Refu se pinta</h1> -->
+    <h3 id="galeria-de-fotos"><a class="heading-anchor" href="#galeria-de-fotos">Galería de fotos</a></h3>
+<p><img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia-01.00_00_02_01.Imagen-fija086.00_00_08_01.Imagen-fija002.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen-fija086.00_00_11_21.Imagen_fija003.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_00_28_07.Imagen_fija005.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_00_37_11.Imagen_fija006.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_00_47_13.Imagen_fija008.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_00_55_24.Imagen_fija010.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_02_14.Imagen_fija011.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_06_22.Imagen_fija012.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_11_21.Imagen_fija013.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_17_12.Imagen_fija014.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_22_02.Imagen_fija015.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_27_10.Imagen_fija016.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_31_09.Imagen_fija017.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_42_07.Imagen_fija019.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_46_23.Imagen_fija020.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_51_22.Imagen_fija021.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_01_56_13.Imagen_fija022.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_06_18.Imagen_fija024.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_12_04.Imagen_fija025.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_15_14.Imagen_fija026.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_21_00.Imagen_fija027.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_30_14.Imagen_fija029.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_36_17.Imagen_fija030.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_41_11.Imagen_fija031.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_46_22.Imagen_fija032.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_52_09.Imagen_fija033.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_02_57_03.Imagen_fija034.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_00_13.Imagen_fija035.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_06_16.Imagen_fija036.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_12_20.Imagen_fija037.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_32_13.Imagen_fija041.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_37_08.Imagen_fija042.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_45_12.Imagen_fija045.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_52_07.Imagen_fija046.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_03_59_03.Imagen_fija047.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_04_01_21.Imagen_fija048.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_04_07_07.Imagen_fija049.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_04_12_01.Imagen_fija050.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_04_15_11.Imagen_fija051.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_04_46_13.Imagen_fija057.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_04_52_16.Imagen_fija058.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_04_57_23.Imagen_fija059.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_06_17.Imagen_fija061.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_11_24.Imagen_fija062.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_17_05.Imagen_fija063.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_21_15.Imagen_fija064.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_25_02.Imagen_fija065.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_31_06.Imagen_fija066.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_37_09.Imagen_fija067.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_41_19.Imagen_fija068.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_48_19.Imagen_fija069.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_54_23.Imagen_fija070.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_05_57_14.Imagen_fija071.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_01_01.Imagen_fija072.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_08_02.Imagen_fija073.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_10_18.Imagen_fija074.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_16_21.Imagen_fija075.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_20_09.Imagen_fija076.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_29_03.Imagen_fija077.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_37_00.Imagen_fija079.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_41_10.Imagen_fija080.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_46_16.Imagen_fija081.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_06_51_01.Imagen_fija082.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_07_01_14.Imagen_fija084.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_07_12_02.Imagen_fija086.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_07_16_12.Imagen_fija087.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_07_35_19.Imagen_fija089.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_07_49_10.Imagen_fija091.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_07_57_02.Imagen_fija093.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_08_01_08.Imagen_fija094.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_08_05_15.Imagen_fija095.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_08_11_14.Imagen_fija096.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_08_16_17.Imagen_fija097.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_08_22_16.Imagen_fija098.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_08_55_23.Imagen_fija100.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_09_01_22.Imagen_fija101.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_09_12_03.Imagen_fija103.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_09_26_15.Imagen_fija106.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_09_31_18.Imagen_fija107.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_09_42_20.Imagen_fija109.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_09_55_24.Imagen_fija112.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_10_07_22.Imagen_fija114.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_10_12_04.Imagen_fija115.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_10_37_18.Imagen_fija119.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_10_48_20.Imagen_fija121.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_11_05_00.Imagen_fija125.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_12_03_00.Imagen_fija133.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_12_13_05.Imagen_fija134.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_12_20_22.Imagen_fija135.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_12_27_18.Imagen_fija136.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_12_31_03.Imagen_fija137.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_12_39_16.Imagen_fija138.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_12_53_07.Imagen_fija141.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_13_08_16.Imagen_fija144.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_13_18_00.Imagen_fija146.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_13_33_18.Imagen_fija149.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_13_41_10.Imagen_fija151.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_13_46_13.Imagen_fija152.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_13_52_12.Imagen_fija153.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_13_55_22.Imagen_fija154.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_14_09_13.Imagen_fija156.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_14_13_20.Imagen_fija157.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_14_19_19.Imagen_fija158.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_14_43_20.Imagen_fija163.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_14_47_05.Imagen_fija164.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_14_54_22.Imagen_fija165.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_14_58_07.Imagen_fija166.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_07_17.Imagen_fija168.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_13_16.Imagen_fija169.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_17_01.Imagen_fija170.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_23_00.Imagen_fija171.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_27_07.Imagen_fija172.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_31_14.Imagen_fija173.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_37_13.Imagen_fija174.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_48_15.Imagen_fija176.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_15_57_24.Imagen_fija178.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_16_02_06.Imagen_fija179.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_16_09_01.Imagen_fija180.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_16_13_08.Imagen_fija181.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_16_22_17.Imagen_fija183.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_17_06_05.Imagen_fija192.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_17_47_03.Imagen_fija200.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_17_52_06.Imagen_fija201.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_18_01_15.Imagen_fija202.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_18_07_14.Imagen_fija203.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_18_22_23.Imagen_fija206.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_18_33_04.Imagen_fija208.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_18_38_07.Imagen_fija209.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_18_41_17.Imagen_fija210.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_19_36_23.Imagen_fija222.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_19_40_09.Imagen_fija223.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_20_05_23.Imagen_fija228.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_20_17_22.Imagen_fija230.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_20_27_06.Imagen_fija232.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_20_34_01.Imagen_fija233.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_20_39_04.Imagen_fija234.jpg" alt=""><br>
+<img src="/assets/images/galeria_fotos_el_refu_se_pinta/Secuencia_01.00_00_02_01.Imagen_fija086.00_20_52_20.Imagen_fija237.jpg" alt=""></p>
+
+  </div>
+</article>
+</main>
+
+    <!-- footer -->
+    
+
+<footer class="site-foot" role="contentinfo">
+  <div class="wrapper">
+    <div class="site-foot__inner">
+      <nav id="footernav" class="site-foot__inner" aria-label="Footer">
+
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+        
+        2023 <a href="/" >Refugio Libertad </a>
+
+        
+      </nav>
+
+      <nav id="social" class="site-foot__inner" aria-label="Social links">
+        
+
+        
+        <a href="https://twitter.com/Traut_Cordoba" rel="me">
+          
+          <span class="sr-only">twitter</span>
+          <div aria-hidden="true"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+  focusable="false"
+>
+  <path
+    d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"
+  ></path>
+</svg>
+</div>
+          </a
+          >
+        
+
+        
+        <a href="https://facebook.com/TrabajadoresUnidosporlaTierra" rel="me">
+          
+          <span class="sr-only">facebook</span>
+          <div aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-facebook"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></div>
+          </a
+          >
+        
+
+        
+        <a href="https://instagram.com/TrabajadorasUnidasPorLaTierra" rel="me">
+          
+          <span class="sr-only">instagram</span>
+          <div aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-instagram"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line></svg></div>
+          </a
+          >
+        
+
+        
+        <a href="mailto:TrabajadorasUnidasPorLaTierra@gmail.com" rel="me">
+          
+          <span class="sr-only">mail</span>
+          <div aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail"><rect width="20" height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg></div>
+          </a
+          >
+        
+
+        
+        <a href="http://localhost:8080//feed.xml" rel="alternate" type="application/rss+xml">
+        
+          <span class="sr-only">rss</span>
+          <div aria-hidden="true"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+  focusable="false"
+>
+  <path d="M4 11a9 9 0 0 1 9 9"></path>
+  <path d="M4 4a16 16 0 0 1 16 16"></path>
+  <circle cx="5" cy="19" r="1"></circle>
+</svg>
+</div>
+          </a
+          >
+        
+
+
+        </nav>
+
+    </div>
+  </div>
+
+  <!-- lang menu -->
+</footer>
+
+
+ 
+
+    <!-- youtube if actvated in yaml -->
+    
+  </body>
+</html>
