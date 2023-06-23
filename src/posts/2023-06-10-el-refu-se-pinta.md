@@ -136,7 +136,7 @@ Este mural está relacionado a la mujer como la fuerza creadora de la zona, tien
 
 ![](/assets/images/2023-06-10-el-refu-se-pinta/Secuencia_01.00_10_45_15.Imagen_fija166.jpg)
 
-*Un guardián sanador de la zona que habite de nuevo este lugar con otro simbolismo. *
+*Un guardián sanador de la zona que habite de nuevo este lugar con otro simbolismo.*
 
 ### Un Brujito
 
