@@ -26,13 +26,13 @@ Hoy se encuentra encaminado nuestro establecimiento. La cooperativa de construcc
 
 ![](/assets/images/2023-08-07-una-bodega-en-el-refugio-libertad/BkL34Rco3.jpg)
 
-![](https://hackmd.io/_uploads/B14gUAqi3.jpg)
+![](/assets/images/2023-08-07-una-bodega-en-el-refugio-libertad/B14gUAqi3.jpg)
 
 En este proyecto, donde planeamos llegar a unas 6 mil plantas, ya contamos con un inicial de 500 aproximadamente. Se prevee generar  dos puestos de trabajo digno y satisfacotrio y una innumerable cantidad de sueños.
 
-![](https://hackmd.io/_uploads/B1QKq05j2.png)
+![](/assets/images/2023-08-07-una-bodega-en-el-refugio-libertad/B1QKq05j2.png)
 
-![](https://hackmd.io/_uploads/HkKuQacoh.jpg)
+![](/assets/images/2023-08-07-una-bodega-en-el-refugio-libertad/HkKuQacoh.jpg)
 
 ## Rafa Brico y Ricardo Benegas
 
