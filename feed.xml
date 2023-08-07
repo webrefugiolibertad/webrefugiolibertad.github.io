@@ -49,7 +49,12 @@ Bodega Refugio Libertad&lt;br /&gt;
     <content
       xml:lang=""
       type="html"
-      >&lt;p&gt;&lt;img src=&quot;https://hackmd.io/_uploads/S1WBaHKsn.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+      >  &lt;div class=&quot;youtube-embed&quot;&gt; &lt;lite-youtube videoid=&quot;GGb747vOeuc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/GGb747vOeuc/hqdefault.jpg&#39;);&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;lty-playbtn&quot;&gt;
+    &lt;span class=&quot;lyt-visually-hidden&quot;&gt;El Cenma del Refugio Libertad&lt;/span&gt;
+  &lt;/button&gt;
+&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://hackmd.io/_uploads/S1WBaHKsn.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;El 5 de Agosto, desde las 11hs, inauguraremos un local de venta de nuestros productos en José de La Quintana. Sabores de Mi Tierra acerca nustra producción alimenticia a los vecinos de localidades vecinas.&lt;br /&gt;
 Ubicado en la avenida principal del pueblo,Avenida Gobernador Cárcano, en el cetro de José de la Quintana, funcionará este espacio de venta.&lt;br /&gt;
 La inauguración: el sábado 5 de agosto desde las 11hs.&lt;br /&gt;
