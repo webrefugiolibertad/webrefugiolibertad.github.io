@@ -6,6 +6,8 @@ fecha: 07 de agosto de 2023
 youtube: true
 ---
 
+{% youtube 'GGb747vOeuc', 'El Cenma del Refugio Libertad' %}
+
 ![](https://hackmd.io/_uploads/S1WBaHKsn.jpg)
 
 El 5 de Agosto, desde las 11hs, inauguraremos un local de venta de nuestros productos en José de La Quintana. Sabores de Mi Tierra acerca nustra producción alimenticia a los vecinos de localidades vecinas.
