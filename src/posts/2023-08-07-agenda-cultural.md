@@ -1,8 +1,8 @@
 ---
 title: 'Agenda Cultural de Agosto en el Refugio Libertad'
 description: ''
-date: 2023-08-07
-fecha: 07 de agosto de 2023
+date: 2023-08-05
+fecha: 05 de agosto de 2023
 youtube: true
 ---
 
@@ -33,10 +33,7 @@ Con Laila Gelerstein y Luca Pacella/ colectivo CabraCru
 
 + INFO e INSCRIPCIÓN: https://forms.gle/yjpvPtVQbuWihJ717
 
-
-
 ![](https://hackmd.io/_uploads/HJ08g8ton.jpg)
 
 Para el mes de las infancias proponemos hermosas actividades para toda la familia.El **20**, **26** y **27** de agosto se realizarán espectaculos de murga, teatro y talleres para infancias.
 invitamos a todos a celebrar juntos estos fines de semana lleno de propuestas para los niños y niñas de la zona.
-
