@@ -11,7 +11,7 @@
     <!-- title -->
     <title>
       
-       Refugio Libertad
+      Una Bodega en el Refugio Libertad
       
     </title>
 
@@ -32,9 +32,37 @@
   }
 </script>
  
+    <!-- include blogpost schema  --><script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage"
+    },
+    "isPartOf": {
+      "@id": "http://localhost:8080#website"
+    },
+    "@id": "",
+    "headline": "Una Bodega en el Refugio Libertad",
+    "description": "Crónicas de su nacimiento",
+    "image": "http://localhost:8080/assets/images/opengraph-default.jpg",
+    "inLanguage": "es_AR",
+    "publisher": {
+      "@type": "Person",
+      "name": "dbellomo",
+      "url": "http://localhost:8080"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "dbellomo"
+    },
+    "datePublished": "2023-08-07T00:00:00.000Z"
+  }
+</script>
+ 
 
     <!-- synchronous css / inline css  -->
-    <link rel="stylesheet" href="/assets/css/global.css?903b-bf54-a9c1" />
+    <link rel="stylesheet" href="/assets/css/global.css?f68f-67be-1ad4" />
 
     <!-- preloads -->
     <link
@@ -60,19 +88,25 @@
     />
 
     <!-- preloads in page data -->
+    <!-- prettier-ignore -->
+    <link rel="preload"
+            href="/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2"
+            as="font"
+            type=font/woff2
+            crossorigin />
     
 
     <!-- defered js  -->
-    <script type="module" src="/assets/scripts/app.js?903b-bf54-a9c1" defer></script>
+    <script type="module" src="/assets/scripts/app.js?f68f-67be-1ad4" defer></script>
 
     <!-- everything else: meta tags, icons, open graph etc.  -->
-    <base href="/" />
+    <base href="/blog/una-bodega-en-el-refugio-libertad/" />
 
 <meta
   name="description"
   content="
   
-  Una experiencia de Tierra, Techo, Trabajo y Conectividad.
+  Crónicas de su nacimiento
   
   "
 />
@@ -84,7 +118,7 @@
 <!-- Disable automatic detection and formatting of possible phone numbers -->
 <meta name="format-detection" content="telephone=no" />
 <!-- Helps prevent duplicate content issues -->
-<link rel="canonical" href="http://localhost:8080/" />
+<link rel="canonical" href="http://localhost:8080/blog/una-bodega-en-el-refugio-libertad/" />
 
 <!-- Links to information about the author(s) of the document -->
 <link rel="author" href="humans.txt" />
@@ -92,20 +126,20 @@
 
 
 <!-- Open Graph meta  -->
-<meta property="og:url" content="http://localhost:8080/" />
+<meta property="og:url" content="http://localhost:8080/blog/una-bodega-en-el-refugio-libertad/" />
 <meta property="og:type" content="website" />
 <meta
   property="og:title"
-  content=" Refugio Libertad"
+  content="Una Bodega en el Refugio Libertad"
 />
 <meta
   property="og:image"
-  content="http://localhost:8080/assets/images/opengraph-default.jpg
+  content="http://localhost:8080/assets/images/social-preview/una-bodega-en-el-refugio-libertad-preview.jpeg
   "
 />
 <meta
   property="og:description"
-  content="Una experiencia de Tierra, Techo, Trabajo y Conectividad."
+  content="Crónicas de su nacimiento"
 />
 <meta property="og:site_name" content="Refugio Libertad" />
 <meta property="og:locale" content="es_AR" />
@@ -135,7 +169,7 @@
 <header class="wrapper | relative" role="banner">
   <div class="site-head | ontop spot-color-primary">
     
-   <a href="/" class="logo site-head__brand | no-underline"  aria-current="page" >
+   <a href="/" class="logo site-head__brand | no-underline" >
     <img
     src="/assets/images/favicon/favicon-32x32.png"
     width="35"
@@ -170,7 +204,7 @@
       <a
         class="nav"
         href="/blog/"
-        
+         data-state="active"
         >Blog</a
       >
     </li>
@@ -199,108 +233,38 @@
 
     <!-- content slot -->
     <main id="main" class="flow">
-<header class="section spot-color-primary">
-  <div class="section__inner">
-    <div class="wrapper flow region">
-      <h1 class="text-center"> Refugio Libertad</h1>
-    </div>
-  </div>
-<!-- <svg
-  class="seperator"
-  preserveAspectRatio="none"
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1440 320"
->
-  <path
-    d="M0,320L48,32L96,32L144,224L192,256L240,0L288,192L336,288L384,224L432,128L480,256L528,32L576,96L624,64L672,64L720,160L768,32L816,192L864,128L912,128L960,32L1008,224L1056,160L1104,0L1152,64L1200,256L1248,64L1296,224L1344,160L1392,96L1440,32L1440,0L1392,0L1344,0L1296,0L1248,0L1200,0L1152,0L1104,0L1056,0L1008,0L960,0L912,0L864,0L816,0L768,0L720,0L672,0L624,0L576,0L528,0L480,0L432,0L384,0L336,0L288,0L240,0L192,0L144,0L96,0L48,0L0,0Z"
-  ></path>
-</svg>
- -->
-</header>
-
-<!--
-<article class="region" style="--region-space-top: var(--space-s)">
-  <div class="wrapper flow prose"> -->
-    <!-- <h2></h2> -->
-    <!-- blog intro text is optional. -->
-    <!--  -->
-<!--  </div> -->
-  <!-- TODO: duplicate of partials/blog.njk -->
-
-  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-     
-
-    <li class="card flow overflow-hidden">
-      <h3>
-        <a href="/blog/una-bodega-en-el-refugio-libertad/">Una Bodega en el Refugio Libertad</a>
-      </h3>
-      <!--  <time datetime="2023-08-07T00:00:00.000Z">
-  August 7, 2023
-</time>
- -->
-      <p>07 de agosto de 2023</p>
-      <p>Crónicas de su nacimiento</p>
-    </li>
-
-    
-
-    <li class="card flow overflow-hidden">
-      <h3>
-        <a href="/blog/agenda-cultural-de-agosto-en-el-refugio-libertad/">Agenda Cultural de Agosto en el Refugio Libertad</a>
-      </h3>
-      <!--  <time datetime="2023-08-07T00:00:00.000Z">
-  August 7, 2023
-</time>
- -->
-      <p>07 de agosto de 2023</p>
-      <p></p>
-    </li>
-
-    
-
-    <li class="card flow overflow-hidden">
-      <h3>
-        <a href="/blog/el-refu-se-pinta/">El Refu se pinta</a>
-      </h3>
-      <!--  <time datetime="2023-06-10T00:00:00.000Z">
-  June 10, 2023
-</time>
- -->
-      <p>10 de junio de 2023</p>
-      <p>En esta recuperación edilicia, territorial, simbólica, de la memoria, venimos pensando la posibilidad de cambiarle la cara a los edificios y realizar intervenciones con murales.</p>
-    </li>
-
-    
-
-    <li class="card flow overflow-hidden">
-      <h3>
-        <a href="/blog/junio-en-el-refugio-cultural/">Junio en el Refugio Cultural</a>
-      </h3>
-      <!--  <time datetime="2023-06-08T00:00:00.000Z">
-  June 8, 2023
-</time>
- -->
-      <p>08 de junio de 2023</p>
-      <p>Actividades culturales: La sombra de un cuerpo que vuelve, El Refu se pinta y Residencias artísticas en territorio.</p>
-    </li>
-
-    
-  </ul>
-
-<article class="region">
+<article class="region blog">
   <div class="wrapper flow prose">
-    <p><img src="/assets/images/index/NzIh12v.jpg" alt=""></p>
-<p>Somos una organización de trabajadores y trabajadoras de la economía popular que habitamos en pequeños pueblos y zonas rurales de los departamentos Calamuchita y Santa María, provincia de Córdoba (Argentina). En 2018 recuperamos el predio del exGrupo de Artillería 141 -ubicado entre Villa San Isidro, José de la Quintana y Los Molinos- y logramos el permiso de uso legal otorgado por la Agencia Administradora de Bienes del Estado (AABE), en alianza con la Cooperativa Madre de la Esquina del Hogar de Cristo y la Fundación Effetá. Allí gestamos el Refugio Libertad, un campo comunitario donde producimos alimentos sanos y creamos trabajo para más de 50 familias, con cuidado del territorio y el ambiente (ganadería mayor y menor, producción de forrajes y granos, horticultura, apicultura, cunicultura, reciclado, recuperación de infraestructura abandonada, entre otras).</p>
-<p>Guiadas por el deseo de alcanzar un Buen Vivir Comunitario y promover el arraigo rural, creamos espacios culturales, de educación y formación, de desarrollo sociocomunitario y solidaridad, en iniciativas que llamamos Refugio Cultural. Hoy nos honra ser la sede centro de la Escuela Nacional de Organización Comunitaria y Economía Popular (ENOCEP) de la Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP). Además, nos sumamos a las Redes Comunitarias de internet de la zona, trabajando activamente con la <a href="https://altermundi.net" target="_blank" rel="noopener">Asociación Civil AlterMundi</a> en pos de la conectividad digital rural y la apropiación popular de tecnología; proyectamos construir juntos un DataCenter que nos permita crecer en soberanía tecnológica.</p>
-<p>En ese camino, asumimos la responsabilidad y el desafío de recuperar y abonar la Memoria. En el predio del ex Grupo de Artillería 141 funcionó un Centro Clandestino de Detención y de Tortura durante la última dictadura cívico-militar (reconocido por el Registro Único de Víctimas del Terrorismo de Estado-RUVTE recién en 2018), y se investiga la presunta presencia de enterramientos clandestinos. Por ello, y porque entendemos que no se puede sanar la tierra sin recuperar la Memoria, con el acompañamiento de diversas organizaciones de Derechos Humanos realizamos talleres, señalizaciones y construimos un Sitio de Memoria que todavía no cuenta con el apoyo estatal que una iniciativa así merece.</p>
-<p>Somos mayoritariamente mujeres y, junto con nuestros compañeros, estamos comprometidas/os con la erradicación de la violencia de género y la construcción de alternativas de vida digna para otras mujeres, jóvenes, niñes y otres. Entendemos que para eso necesitamos fortalecer la comunidad y nuestra autonomía, avanzar en soluciones habitacionales y crecer en lo productivo, protegiendo el monte nativo y el río que nos vieron nacer.</p>
-<blockquote>
-<p>Soñamos con un Refugio Libertad abierto a la comunidad y que cuente con el aporte de todos y todas. Ya está sucediendo…</p>
-</blockquote>
+    <!-- <h1 class="gradient-text">Una Bodega en el Refugio Libertad</h1> -->
+    <h1>Una Bodega en el Refugio Libertad</h1>
+
+    <!--  <time datetime="2023-08-07T00:00:00.000Z">
+  August 7, 2023
+</time>
+ -->
+    <p>07 de agosto de 2023</p>
+
+    <p>Esta idea nace por el impulso de un compañero, Ricardo, que gustaba del cultivo de vid y tenía algunas plantitas en su casa pero anhelaba con poder hacer algo mas grande. Desde allí, desde la pertenencia a la organzacion y el invalorable terreno con el que cuenta el refu, surge la idea de plantar en el año 2021, donde comienza la travesía.</p>
+<p><img src="https://hackmd.io/_uploads/BJUwL6qih.jpg" alt=""></p>
+<p>Con el asomar del proyecto de DESARROLLO ARMONICO, imaginamos, pensamos, soñamos y diseñamos una plantación mayor y una planta de elaboración de vinos… LA BODEGA.</p>
+<p>En el 2022 compramos  200 kilos de uva en la Localidad de San Agustin, y elaboramos nuestro primer vino tinto, de la manera mas artesanal que podamos imaginar, pero llenos de ilusión.</p>
+<p><img src="https://hackmd.io/_uploads/SkKJLa5s2.jpg" alt=""></p>
+<p>El plan para 2023:fracionar el vino tinto y algunos litros de vino Regional de variedad Isabella, uva típica de Cordoba, que elaboramos también de manera artesanal durante el 2023.</p>
+<p><img src="https://hackmd.io/_uploads/Sk_t5A5i3.jpg" alt=""></p>
+<p>Hoy se encuentra encaminado nuestro establecimiento. La cooperativa de construcción está refaccionando el espacio y nosotros  estamos tramitando la compra de la maquinaria para poder trabajar mas cómodos.</p>
+<p><img src="https://hackmd.io/_uploads/SkfPXa5s3.jpg" alt=""></p>
+<p><img src="https://hackmd.io/_uploads/BkL34Rco3.jpg" alt=""></p>
+<p><img src="https://hackmd.io/_uploads/B14gUAqi3.jpg" alt=""></p>
+<p>En este proyecto, donde planeamos llegar a unas 6 mil plantas, ya contamos con un inicial de 500 aproximadamente. Se prevee generar  dos puestos de trabajo digno y satisfacotrio y una innumerable cantidad de sueños.</p>
+<p><img src="https://hackmd.io/_uploads/B1QKq05j2.png" alt=""></p>
+<p><img src="https://hackmd.io/_uploads/HkKuQacoh.jpg" alt=""></p>
+<p><strong>Rafa Brico y Ricardo Benegas</strong></p>
+<p>Esperamos pronto brindar con este vino que si algo tiene es MEMORIA.</p>
+<p>Rafa Bricco<br>
+Bodega Refugio Libertad<br>
+º:w</p>
 
   </div>
-</article>
-
 </article>
 </main>
 
@@ -314,7 +278,7 @@
 
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
         
-        2023 <a href="/"  aria-current="page" >Refugio Libertad </a>
+        2023 <a href="/" >Refugio Libertad </a>
 
         
       </nav>
@@ -410,6 +374,11 @@
  
 
     <!-- youtube if actvated in yaml -->
+    
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.4.0/lite-youtube.min.js"
+    ></script>
     
   </body>
 </html>
