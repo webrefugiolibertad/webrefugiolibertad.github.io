@@ -19,7 +19,10 @@ En el marco de la Convocatoria de Proyectos para el Desarrollo Armónico con Equ
 
 ## Procesos en curso
 
-- no hay procesos en curso en este momento.
+| Fecha publicación | Nombre del Proceso | fecha límite |
+|----------------------|--------------------|----------------------------|
+| 14/08/23 | [Adquisición de camioneta para el Refugio Libertad](/assets/pliegos/pliego_para_adquisicion_de_camioneta.pdf) | 23/08/23 |
+
 
 ## Procesos finalizados
 
