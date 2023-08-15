@@ -6,6 +6,8 @@ fecha: 15 de agosto de 2023
 youtube: true
 ---
 
+![](/assets/images/2023-08-15-la-biblioteca-margarita-zeniquel/SygcZ7t33.jpg)
+
 La biblioteca del Refu es un espacio articulador de proyectos, experiencias, resistencias y esperanzas.
 Desde su nacimiento, día a día recibe, convoca y gestiona diversas actividades.
 
