@@ -1,5 +1,5 @@
 ---
-title: 'La Biblioteca Margatita Zeniquel'
+title: 'La Biblioteca Margarita Zeniquel'
 description: 'Refugio de Memorias y Luchas'
 date: 2023-08-15
 fecha: 15 de agosto de 2023
