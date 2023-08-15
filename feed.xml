@@ -5,12 +5,33 @@
   <link href="http://localhost:8080/feed.xml" rel="self" />
   <link href="http://localhost:8080/" />
   
-  <updated>2023-08-07T00:00:00Z</updated>
+  <updated>2023-08-15T00:00:00Z</updated>
   <id>http://localhost:8080/</id>
   <author>
     <name>dbellomo</name>
     <email>tjd8n42b@duck.com</email>
   </author>
+  <entry>
+    <title>La Biblioteca Margatita Zeniquel</title>
+    <link href="http://localhost:8080/blog/la-biblioteca-margatita-zeniquel/" />
+    <updated>2023-08-15T00:00:00Z</updated>
+    <id>http://localhost:8080/blog/la-biblioteca-margatita-zeniquel/</id>
+    <content
+      xml:lang=""
+      type="html"
+      >&lt;p&gt;La biblioteca del Refu es un espacio articulador de proyectos, experiencias, resistencias y esperanzas.&lt;br /&gt;
+Desde su nacimiento, día a día recibe, convoca y gestiona diversas actividades.&lt;/p&gt;
+&lt;p&gt;El refugio Libertad ofrace un gran trabajo de recate y reconstrucción de la memoria colectiva de lo que fue el ex Grupo de Artilleria 141.&lt;br /&gt;
+te invitamos  leer mas aqui&lt;br /&gt;
+&lt;a href=&quot;https://refugio.libre.org.ar/quienes_somos/memoria_historica/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://refugio.libre.org.ar/quienes_somos/memoria_historica/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hoy, la bibloteca, avanza en el rescate de la memoria, con recorridos guiados, principalmente a escuelas secundarias, con actividades culturales y articulaciones con Universidades y otras instituciones representativas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/2023-08-15-la-biblioteca-margarita-zeniquel/HyOXGeK32.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;En este marco, días atrás recibieron a compañeras y compañeros de la secretaría de extensión de la Facultad de Filosofía y Humanidades de la Universidad Nacional de Córdoba.&lt;/p&gt;
+&lt;p&gt;La biblioteca será en breve sede de un proyecto extensionista que, entre otras cosas, profundizará el inventario y la catalogación de parte del acervo de más de 3 mil obras.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/2023-08-15-la-biblioteca-margarita-zeniquel/r1r1fetn2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content
+    >
+  </entry>
   <entry>
     <title>Una Bodega en el Refugio Libertad</title>
     <link href="http://localhost:8080/blog/una-bodega-en-el-refugio-libertad/" />
