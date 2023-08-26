@@ -21,15 +21,18 @@ En el marco de la Convocatoria de Proyectos para el Desarrollo Armónico con Equ
 
 | Fecha publicación | Nombre del Proceso | fecha límite |
 |----------------------|--------------------|----------------------------|
-| 14/08/23 | [Adquisición de camioneta para el Refugio Libertad](https://github.com/webrefugiolibertad/docs/raw/main/pliegos/Pliego_adquisicion_de_equipamiento_deportivo.pdf) | 23/08/23 |
-| 14/08/23 | [Adquisición de maquinaria y equipamiento para bodega y viña en el Refugio Libertad](https://github.com/webrefugiolibertad/docs/raw/main/pliegos/14.8.23-Pliego_Adquisicion_de_maquinaria_y_equipamiento_para_bodega_y_vid.pdf) | 23/08/23 |
-| 14/08/23 | [Adquisición de equipamiento deportivo para el Refugio Libertad](https://github.com/webrefugiolibertad/docs/raw/main/pliegos/Pliego_adquisicion_de_equipamiento_deportivo.pdf) | 23/08/23 |
-| 14/08/23 | [Adquisición de equipamiento técnico para Salón de Usos Múltiples para el Refugio Libertad – segundo llamado](https://github.com/webrefugiolibertad/docs/raw/main/pliegos/Segundo_llamado_Pliego_adquisicion_de_equipamiento_tecnico_SUM.pdf) | 23/08/23 |
-| 15/08/23 | [Adquisición de equipamiento digital para Unidades Productivas y espacios sociocomunitarios](https://github.com/webrefugiolibertad/docs/raw/main/pliegos/15.8.23-Pliego_de_adquisicion_de_equipamiento_digital_para_Unidades_Productivas_y_espacios_sociocomunitarios.pdf) | 23/08/23 |
+
+- no hay procesos en curso en este momento.
+
 ## Procesos finalizados
 
 | Fecha publicación | Nombre del Proceso | fecha límite |
 |----------------------|--------------------|----------------------------|
+| 14/08/23 | Adquisición de camioneta para el Refugio Libertad | 23/08/23 |
+| 14/08/23 | Adquisición de maquinaria y equipamiento para bodega y viña en el Refugio Libertad | 23/08/23 |
+| 14/08/23 | Adquisición de equipamiento deportivo para el Refugio Libertad | 23/08/23 |
+| 14/08/23 | Adquisición de equipamiento técnico para Salón de Usos Múltiples para el Refugio Libertad – segundo llamado | 23/08/23 |
+| 15/08/23 | Adquisición de equipamiento digital para Unidades Productivas y espacios sociocomunitarios | 23/08/23 |
 | 25/01/23 | Adquisición de maquinaria y equipamiento para bodega y viña | 04/02/23 |
 | 23/01/23 | Adquisición de maquinaria y equipamiento para la fábrica de LibreRouters | 30/01/23 |
 | 29/11/22 | Pliego equipamiento fábrica de LRv2 | 07/12/22 |
