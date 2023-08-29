@@ -8,7 +8,7 @@ fecha: 28 de agosto de 2023
 ![](/assets/images/2023-08-28-espacio-de-infancias/SJH8hw5p2.jpg)
 
  Abre sus puertas el Espacio de Infancias “Semillero”. Y para presentarnos, nos gustaría contarles porque un semillero.
- Un semillero en primera infancia evoca la idea de “cultivo”, de “cultura”, y es una metáfora poderosa para expresar el ideal de un espacio que propicia el mejor terreno posible, el más abonado y fértil para el desarrollo temprano de capacidades, el florecimiento de la curiosidad, el disfrute y el placer en el acto de conocer”. Lxs esperamos a partir del 5/09 para seguir construyendo comunidad alrededor de las infancias. ¡ Por más infancias libres, cuidadas y respetadas con acceso al juego, arte y cultura !
+ Un semillero en primera infancia evoca la idea de “cultivo”, de “cultura”, y es una metáfora poderosa para expresar el ideal de un espacio que propicia el mejor terreno posible, el más abonado y fértil para el desarrollo temprano de capacidades, el florecimiento de la curiosidad, el disfrute y el placer en el acto de conocer”. Lxs esperamos a partir del 5/09 para seguir construyendo comunidad alrededor de las infancias. ¡Por más infancias libres, cuidadas y respetadas con acceso al juego, arte y cultura!
 
 ![](/assets/images/2023-08-28-espacio-de-infancias/ByL1avca3.jpg)
 
@@ -23,7 +23,7 @@ Este festival brindó actividades en dos fines de semana.
 
 ![](/assets/images/2023-08-28-espacio-de-infancias/HkEgFu9ph.jpg)
 
-Iniciamos con la inauguración del Espacio de Infancias, un lugar para encontrarnos a jugar, crear, disfrutar de música y cuentos junto a otrxs.
+Iniciamos con la inauguración del Espacio de Infancias, un lugar para encontrarnos a jugar, crear, disfrutar de música y cuentos.
 
 ![](/assets/images/2023-08-28-espacio-de-infancias/B16-Ldc62.jpg)
 
