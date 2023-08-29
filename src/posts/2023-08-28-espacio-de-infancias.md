@@ -18,15 +18,16 @@ fecha: 28 de agosto de 2023
 
 Inauguramos este hermoso espacio en el mes de las infancias, que además estuvo acompañado de muchas actividades.
 
-El sábado 19 se realizó el Festivalito  de teatro y circo “Crespín“ Una hermosa tarde organizada por  el Refugio Cultural, los semilleros de Traut y la Biblioteca Margarita Zeniquel.
+Organizado por el Refugio Cultural, los semilleros de Traut y la Biblioteca Margarita Zeniquel, Se realizó el Festivalito de teatro y circo “Crespín “ que tuvo una grilla extensa y variada.
+Este festival brindó actividades en dos fines de semana.
 
 ![](/assets/images/2023-08-28-espacio-de-infancias/HkEgFu9ph.jpg)
 
-Iniciamos con la inauguración del Espacio de Infancias , un lugar para encontrarnos a jugar,crear, disfrutar de música y cuentos junto a otrxs.
+Iniciamos con la inauguración del Espacio de Infancias, un lugar para encontrarnos a jugar, crear, disfrutar de música y cuentos junto a otrxs.
 
 ![](/assets/images/2023-08-28-espacio-de-infancias/B16-Ldc62.jpg)
 
-Luego el grupo de teatro “Ulularía Teatro” llegó con una hermosa obra de títeres “ En una canasta “ y finalizamos la tarde con una riquísima merienda compartida.
+Luego el grupo de teatro “Ulularía Teatro” llegó con una hermosa obra de títeres “En una canasta“ y finalizamos la tarde con una riquísima merienda compartida.
 
 ![](/assets/images/2023-08-28-espacio-de-infancias/S1slhu5a2.jpg)
 
@@ -42,7 +43,7 @@ Continuamos este ciclo con dos hermosas propuestas para compartir en comunidad.
 
 El sábado 26 recibimos la hermosa propuesta del Taller de Circo Social junto a la payasa Lupita y a la obra de teatro “Cabeza de Aire” del grupo Ilusiones Animadas.
 
-El domingo fue el último día de este gran festival para infancias organizado por el Refugio Libertad.
+El domingo fue el último día de este gran festival para infancias.
 
 ![](/assets/images/2023-08-28-espacio-de-infancias/HJSKbKcpn.jpg)
 
