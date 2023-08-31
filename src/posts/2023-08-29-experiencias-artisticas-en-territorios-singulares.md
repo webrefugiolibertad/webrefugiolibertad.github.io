@@ -7,7 +7,7 @@ fecha: 29 de agosto de 2023
 
 ![](/assets/images/2023-08-29-experiencias-artisticas-en-territorios-singulares/SkOewxpTn.jpg)
 
-¿Como crear nuevas prácticas artísticas desde territorios descentralizados? ¿Qué ofrecen los sitios alejados de aquellos polos culturales donde supuestamente la ecuación oferta/demanda congrega a formadores, estudiantes, artistas y personas curiosas? ¿Sigue siendo la ciudad el lugar al que hay que ir para perfeccionarse, o a vivir una experiencia formativa distinta?
+¿Como crear nuevas prácticas artísticas desde territorios descentralizados? ¿Qué ofrecen los sitios alejados de aquellos polos culturales donde supuestamente la relación oferta/demanda congrega a formadores, estudiantes, artistas y personas curiosas? ¿Sigue siendo la ciudad el lugar al que hay que ir para perfeccionarse, o a vivir una experiencia formativa distinta?
 
 Esta propuesta sigue siendo una pregunta, acerca de cómo habitamos nuestro trabajo artístico quienes vivimos en territorios rurales y qué nuevas perspectivas de creación y expansión del imaginario nos acerca el hecho de volver la mirada hacia nuestro territorio.
 
