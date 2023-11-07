@@ -10,7 +10,8 @@
 
     <!-- title -->
     <title>
-       Legal notice
+      
+      El Vivero del Refu
       
     </title>
 
@@ -31,9 +32,37 @@
   }
 </script>
  
+    <!-- include blogpost schema  --><script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage"
+    },
+    "isPartOf": {
+      "@id": "http://localhost:8080#website"
+    },
+    "@id": "",
+    "headline": "El Vivero del Refu",
+    "description": "un nuevo espacio verde y productivo. De a poco y coon mucho esfuerzo este espacio va tomando color",
+    "image": "http://localhost:8080/assets/images/opengraph-default.jpg",
+    "inLanguage": "es_AR",
+    "publisher": {
+      "@type": "Person",
+      "name": "dbellomo",
+      "url": "http://localhost:8080"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "dbellomo"
+    },
+    "datePublished": "2023-11-07T00:00:00.000Z"
+  }
+</script>
+ 
 
     <!-- synchronous css / inline css  -->
-    <link rel="stylesheet" href="/assets/css/global.css?2c9c-aa84-ed00" />
+    <link rel="stylesheet" href="/assets/css/global.css?1fc7-9cc0-fb1a" />
 
     <!-- preloads -->
     <link
@@ -59,19 +88,25 @@
     />
 
     <!-- preloads in page data -->
+    <!-- prettier-ignore -->
+    <link rel="preload"
+            href="/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2"
+            as="font"
+            type=font/woff2
+            crossorigin />
     
 
     <!-- defered js  -->
-    <script type="module" src="/assets/scripts/app.js?2c9c-aa84-ed00" defer></script>
+    <script type="module" src="/assets/scripts/app.js?1fc7-9cc0-fb1a" defer></script>
 
     <!-- everything else: meta tags, icons, open graph etc.  -->
-    <base href="/imprint/" />
+    <base href="/blog/el-vivero-del-refu/" />
 
 <meta
   name="description"
   content="
   
-  Imprint infos
+  un nuevo espacio verde y productivo. De a poco y coon mucho esfuerzo este espacio va tomando color
   
   "
 />
@@ -83,7 +118,7 @@
 <!-- Disable automatic detection and formatting of possible phone numbers -->
 <meta name="format-detection" content="telephone=no" />
 <!-- Helps prevent duplicate content issues -->
-<link rel="canonical" href="http://localhost:8080/imprint/" />
+<link rel="canonical" href="http://localhost:8080/blog/el-vivero-del-refu/" />
 
 <!-- Links to information about the author(s) of the document -->
 <link rel="author" href="humans.txt" />
@@ -91,20 +126,20 @@
 
 
 <!-- Open Graph meta  -->
-<meta property="og:url" content="http://localhost:8080/imprint/" />
+<meta property="og:url" content="http://localhost:8080/blog/el-vivero-del-refu/" />
 <meta property="og:type" content="website" />
 <meta
   property="og:title"
-  content="Legal notice"
+  content="El Vivero del Refu"
 />
 <meta
   property="og:image"
-  content="http://localhost:8080/assets/images/opengraph-default.jpg
+  content="http://localhost:8080/assets/images/social-preview/el-vivero-del-refu-preview.jpeg
   "
 />
 <meta
   property="og:description"
-  content="Imprint infos"
+  content="un nuevo espacio verde y productivo. De a poco y coon mucho esfuerzo este espacio va tomando color"
 />
 <meta property="og:site_name" content="Refugio Libertad" />
 <meta property="og:locale" content="es_AR" />
@@ -169,7 +204,7 @@
       <a
         class="nav"
         href="/blog/"
-        
+         data-state="active"
         >Blog</a
       >
     </li>
@@ -198,34 +233,37 @@
 
     <!-- content slot -->
     <main id="main" class="flow">
-<header class="section spot-color-primary">
-  <div class="section__inner">
-    <div class="wrapper flow region">
-      <h1 class="text-center">Legal notice</h1>
-    </div>
-  </div>
-<!-- <svg
-  class="seperator"
-  preserveAspectRatio="none"
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1440 320"
->
-  <path
-    d="M0,320L48,32L96,32L144,224L192,256L240,0L288,192L336,288L384,224L432,128L480,256L528,32L576,96L624,64L672,64L720,160L768,32L816,192L864,128L912,128L960,32L1008,224L1056,160L1104,0L1152,64L1200,256L1248,64L1296,224L1344,160L1392,96L1440,32L1440,0L1392,0L1344,0L1296,0L1248,0L1200,0L1152,0L1104,0L1056,0L1008,0L960,0L912,0L864,0L816,0L768,0L720,0L672,0L624,0L576,0L528,0L480,0L432,0L384,0L336,0L288,0L240,0L192,0L144,0L96,0L48,0L0,0Z"
-  ></path>
-</svg>
- -->
-</header>
-
-<article class="region">
+<article class="region blog">
   <div class="wrapper flow prose">
-    <!-- <h1 class="gradient-text">Legal notice</h1> -->
-    <!-- <h1>Legal notice</h1> -->
-    <p>Edit your details in <code>_data/meta.js</code></p>
-<p>Refugio Libertad</p>
-<p>, Villa Los Molinos</p>
-<p>Tel: <a href="tel:"></a><br>
-Mail: <a href="mailto:TrabajadorasUnidasPorLaTierra@gmail.com">TrabajadorasUnidasPorLaTierra@gmail.com</a></p>
+    <!-- <h1 class="gradient-text">El Vivero del Refu</h1> -->
+    <h1>El Vivero del Refu</h1>
+
+    <!--  <time datetime="2023-11-07T00:00:00.000Z">
+  November 7, 2023
+</time>
+ -->
+    <p>07 de noviembre de 2023</p>
+
+    <p>Flavia Peralta, Noe Rodriguez, Ale Basualdo e Hilda Rodríguez son las responsables de este nuevo emprendimiento. De a poco y con mucho esfuerzo este espacio que tiene unos meses va tomando color.</p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_1f0d025ad4c6479e2f8895e01f571e8d.jpg" alt="_DSC017356.jpg"></p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_95d60c50d0320e29fe15fb05c977542e.jpg" alt="_DSC017355.jpg"></p>
+<p>El stock de plantas es de lo mas variado y florido.Estas cualidades se logran gracias a la manos habilidosas de las compañeras.<br>
+Ellas también se capacitan en distintos procesos agroecológicos para la producción sustentable y realcionada con el ecosistema del lugar.</p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_70dd9b788bfdeff08cce33cd59ac8eb6.jpg" alt="_DSC017398.jpg"></p>
+<p>El jueves 02/11 visitaron el Refugio Libertad estudiantes y docentes de la Facultad de Agronomía y Veterinaria de la Universidad Nacional de Río Cuarto.</p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_cd87be8f54ad710d19f8063e72341f02.jpg" alt="_DSC0173.jpg"></p>
+<p>Compartimos una jornada de trabajo en la que se prepararon bio fertilizantes y purín para insectos.</p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_26c6986d75b5025621b4177a81597d12.jpg" alt="3.jpg"></p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_0d62f2cec46334b724db700913e28077.jpg" alt="5.jpg"></p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_3f8a2f8602a5133ec19a8b6280b1c552.jpg" alt="6.jpg"></p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_2567ff8a50e1e923b8abbcd9563db2e1.jpg" alt="34.jpg"></p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_911859c6231c79696cdfca29b7fbc43c.jpg" alt="2.jpg"></p>
+<p><img src="/assets/images/2023-11-07-el-vivero-del-refu/upload_1d0e5f48e8c9819ed6e3715b8a5e715a.jpg" alt="1.jpg"></p>
+<p>No faltaron unos ricos choris para el almuerzo en la ENOCEP, que preparó Ricardo. Y una recorrida por el sitio de memoria y los espacios productivos con nuestros compañeros Adrián Camerano y Guille Schuster, en la que pudimos recuperar la historia del cuartel en  tiempos de la dictadura y el presente de defensa de la vida y la comunidad.</p>
+<p>Seguimos construyendo soberanía alimentaria.<br>
+Seguimos creciendo en trabajo, formación y poder popular.</p>
+<p>comunicación Refugio Libertad</p>
+<p><a href="https://refugio.libre.org.ar/fotos/2023-11-07-el-vivero-del-refu.html" target="_blank" rel="noopener">Galerías de Fotos</a></p>
 
   </div>
 </article>
