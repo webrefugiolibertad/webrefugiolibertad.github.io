@@ -1,6 +1,6 @@
 ---
 title: 'Reorganización y creación de nuevos espacios productivos'
-description: 'En el marco de la producción agroecológica que se viene gestando en el predio productivo se estableció la reorganización de algunos emprendimientos'
+description: 'en el marco de la producción agroecológica que se viene gestando en el predio productivo'
 date: 2023-11-06
 fecha: 06 de noviembre de 2023
 ---
