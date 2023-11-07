@@ -1,6 +1,6 @@
 ---
 title: 'El Vivero del Refu'
-description: 'un nuevo espacio verde y productivo. De a poco y coon mucho esfuerzo este espacio va tomando color'
+description: 'un nuevo espacio verde y productivo. De a poco y con mucho esfuerzo este espacio va tomando color'
 date: 2023-11-07
 fecha: 07 de noviembre de 2023
 ---
