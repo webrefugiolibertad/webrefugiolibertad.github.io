@@ -5,12 +5,39 @@
   <link href="http://localhost:8080/feed.xml" rel="self" />
   <link href="http://localhost:8080/" />
   
-  <updated>2023-11-07T00:00:00Z</updated>
+  <updated>2023-11-08T00:00:00Z</updated>
   <id>http://localhost:8080/</id>
   <author>
     <name>dbellomo</name>
     <email>tjd8n42b@duck.com</email>
   </author>
+  <entry>
+    <title>Que se jugó se jugó</title>
+    <link href="http://localhost:8080/blog/que-se-jugo-se-jugo/" />
+    <updated>2023-11-08T00:00:00Z</updated>
+    <id>http://localhost:8080/blog/que-se-jugo-se-jugo/</id>
+    <content
+      xml:lang=""
+      type="html"
+      >&lt;h2 id=&quot;inauguracion-de-la-cancha-de-futbol-de-refu&quot;&gt;&lt;a class=&quot;heading-anchor&quot; href=&quot;http://localhost:8080/blog/que-se-jugo-se-jugo/#inauguracion-de-la-cancha-de-futbol-de-refu&quot;&gt;Inauguración de la cancha de fútbol de refu&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/2023-11-08-que-se-jugo-se-jugo/ryMApQtX6.jpg&quot; alt=&quot;photo1699458394.jpeg&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Se puso en marcha el primero de muchos estrenos, la cancha de fútbol del Refu.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;El pasado 4 de noviembre inauguramos la canchita del Refu con un evento, “Tardes de futbol”, el cual pretende instalarse como una constante de cada sábado. La idea es, en un futuro, tener funcionando un espacio recreativo que genere puestos de trabajo e intercambio sano y divertido dentro de la comunidad.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/2023-11-08-que-se-jugo-se-jugo/HkGjbEFQp.jpg&quot; alt=&quot;IMG_20231104_185950026.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Entendiendo que a lo que llamamos “cultura” no es otra cosa que la identidad de una comunidad, consideramos que un predio deportivo en el Refugio Libertad es parte de la identidad del espacio, es parte de una memoria que hay que recuperar, y un futuro que queremos construir en dialogo con nuestras comunidades. En este sentido, que el proyecto cultural del Refugio Libertad tenga una oferta deportiva es algo que va a expandir la participación y el encuentro dentro y fuera de la organización.&lt;/p&gt;
+&lt;p&gt;El proyecto consiste en diseñar y recuperar espacios deportivos y recreativos dentro del predio.  Para ello, partimos de la recuperación de dos canchas existentes,futbol y paddle, en torno a las cuales se pensaron otros espacios más como un quincho, una cancha de vóley y otra de basquet, y un espacio para clases de boxeo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/2023-11-08-que-se-jugo-se-jugo/S1ZlmNt7a.jpg&quot; alt=&quot;IMG_20231104_1859500266.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;La posibilidad de gestionar un presupuesto nos permitió comprar insumos deportivos y poder reactivar las canchas para su uso.&lt;br /&gt;
+Somos un equipo de tres mujeres que llevamos adelante este proyecto,&lt;br /&gt;
+Keyla, Delfina y Julieta, afrontando los desafíos que nos propone esta tarea y nos estamos divirtiendo un montón.&lt;/p&gt;
+&lt;p&gt;Además de las canchas que están en proceso de reacondicionamiento, cuenta con pelotas para practicar los diversos deportes, redes, paletas de padle y elementos para la práctica del boxeo.&lt;/p&gt;
+&lt;p&gt;Se prevé que antes de fin de año, podamos inaugurar  las canchas de vóley, básquet y paddle. Seguimos caminando.&lt;/p&gt;
+&lt;p&gt;Entrevista a Julieta Reyes&lt;br /&gt;
+Gestora cultural del Refugio Libertad&lt;br /&gt;
+Ph Julieta Reyes&lt;/p&gt;
+</content
+    >
+  </entry>
   <entry>
     <title>El Vivero del Refu</title>
     <link href="http://localhost:8080/blog/el-vivero-del-refu/" />
