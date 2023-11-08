@@ -9,7 +9,7 @@ fecha: 07 de noviembre de 2023
 
 ![_DSC017356.jpg](/assets/images/2023-11-07-el-vivero-del-refu/upload_1f0d025ad4c6479e2f8895e01f571e8d.jpg)
 
-Flavia Peralta, Noe Rodriguez, Ale Basualdo e Hilda Rodríguez son las responsables de este nuevo emprendimiento. De a poco y con mucho esfuerzo este espacio que tiene unos meses va tomando color.
+Flavia Peralta, Cecilia Peralta, Noe Rodriguez, Ale Basualdo e Hilda Rodríguez son las responsables de este nuevo emprendimiento. De a poco y con mucho esfuerzo este espacio que tiene unos meses va tomando color.
 
 ![_DSC017355.jpg](/assets/images/2023-11-07-el-vivero-del-refu/upload_95d60c50d0320e29fe15fb05c977542e.jpg)
 ![_DSC017398.jpg](/assets/images/2023-11-07-el-vivero-del-refu/upload_70dd9b788bfdeff08cce33cd59ac8eb6.jpg)

@@ -1,6 +1,6 @@
 ---
 title: 'Que se jugó se jugó'
-description: 'Inauguración de la cancha de fútbol de refu'
+description: 'Inauguración de la cancha de fútbol del refu'
 date: 2023-11-08
 fecha: 08 de noviembre de 2023
 ---
@@ -17,9 +17,7 @@ Entendiendo que a lo que llamamos “cultura” no es otra cosa que la identidad
 
 El proyecto consiste en diseñar y recuperar espacios deportivos y recreativos dentro del predio.  Para ello, partimos de la recuperación de dos canchas existentes,futbol y paddle, en torno a las cuales se pensaron otros espacios más como un quincho, una cancha de vóley y otra de basquet, y un espacio para clases de boxeo.
 
-
 ![IMG_20231104_1859500266.jpg](/assets/images/2023-11-08-que-se-jugo-se-jugo/S1ZlmNt7a.jpg)
-
 
 La posibilidad de gestionar un presupuesto nos permitió comprar insumos deportivos y poder reactivar las canchas para su uso.
 Somos un equipo de tres mujeres que llevamos adelante este proyecto,
