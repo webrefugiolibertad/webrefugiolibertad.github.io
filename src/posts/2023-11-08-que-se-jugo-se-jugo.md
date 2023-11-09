@@ -7,7 +7,8 @@ fecha: 08 de noviembre de 2023
 
 ## Inauguración de la cancha de fútbol del refu
 ![photo1699458394.jpeg](/assets/images/2023-11-08-que-se-jugo-se-jugo/ryMApQtX6.jpg)
-*Se puso en marcha el primero de muchos estrenos, la cancha de fútbol del Refu.*
+
+> Se puso en marcha el primero de muchos estrenos, la cancha de fútbol del Refu
 
 El pasado 4 de noviembre inauguramos la canchita del Refu con un evento, “Tardes de futbol”, el cual pretende instalarse como una constante de cada sábado. La idea es, en un futuro, tener funcionando un espacio recreativo que genere puestos de trabajo e intercambio sano y divertido dentro de la comunidad.
 
