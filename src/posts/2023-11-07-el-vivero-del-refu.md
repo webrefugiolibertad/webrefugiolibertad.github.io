@@ -47,6 +47,8 @@ Seguimos creciendo en trabajo, formación y poder popular.
 
 ![1.jpg](/assets/images/2023-11-07-el-vivero-del-refu/msg1266697745-163320.jpg)
 
+---
+
 comunicación Refugio Libertad
 Ph - Maia Bazán - Germán Saretti
 
