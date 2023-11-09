@@ -21,7 +21,6 @@ Ellas también se capacitan en distintos procesos agroecológicos para la produc
 
 > El jueves 02/11 visitaron el Refugio Libertad estudiantes y docentes de la Facultad de Agronomía y Veterinaria de la Universidad Nacional de Río Cuarto
 
-
 Compartimos una jornada de trabajo en la que se prepararon bio fertilizantes y purín para insectos.
 
 ![3.jpg](/assets/images/2023-11-07-el-vivero-del-refu/upload_26c6986d75b5025621b4177a81597d12.jpg)
