@@ -5,7 +5,7 @@ date: 2023-11-08
 fecha: 08 de noviembre de 2023
 ---
 
-## Inauguración de la cancha de fútbol de refu
+## Inauguración de la cancha de fútbol del refu
 ![photo1699458394.jpeg](/assets/images/2023-11-08-que-se-jugo-se-jugo/ryMApQtX6.jpg)
 *Se puso en marcha el primero de muchos estrenos, la cancha de fútbol del Refu.*
 
@@ -20,13 +20,14 @@ El proyecto consiste en diseñar y recuperar espacios deportivos y recreativos d
 ![IMG_20231104_1859500266.jpg](/assets/images/2023-11-08-que-se-jugo-se-jugo/S1ZlmNt7a.jpg)
 
 La posibilidad de gestionar un presupuesto nos permitió comprar insumos deportivos y poder reactivar las canchas para su uso.
-Somos un equipo de tres mujeres que llevamos adelante este proyecto,
-Keyla, Delfina y Julieta, afrontando los desafíos que nos propone esta tarea y nos estamos divirtiendo un montón.
+Somos un equipo de tres mujeres que llevamos adelante este proyecto, Keyla, Delfina y Julieta, afrontando los desafíos que nos propone esta tarea y nos estamos divirtiendo un montón.
 
 Además de las canchas que están en proceso de reacondicionamiento, cuenta con pelotas para practicar los diversos deportes, redes, paletas de padle y elementos para la práctica del boxeo.
 
 Se prevé que antes de fin de año, podamos inaugurar  las canchas de vóley, básquet y paddle. Seguimos caminando.
 
+---
 Entrevista a Julieta Reyes
 Gestora cultural del Refugio Libertad
 Ph Julieta Reyes
+
