@@ -13,7 +13,7 @@ El Refu es tierra fértil para llevar adelante proyectos que contribuyen al buen
 
 ![_DSC6255](/assets/images/2023-11-14-fabrica-de-tecnologia-apropiada-para-la-economia-popular/HJKwWgbV6.jpg)
 
-En la actualidad hay un equipo de trabajo que viene fabricando y produciendo de manera distribuida tecnología apropiada. Junto a otras experiencias como [Tecnología de Raiz](https:tdr.libre.org.ar), Altermundi viene acompañando procesos de investigación e innovacion tecnologica direccionada a facilitar el acceso a herramientas que contribuyan al desarrollo y las necesidades de comunidades, especialmente en la ruralidad.
+En la actualidad hay un equipo de trabajo que viene fabricando y produciendo de manera distribuida tecnología apropiada. Junto a otras experiencias como [Tecnología de Raiz](https://tdr.libre.org.ar), Altermundi viene acompañando procesos de investigación e innovacion tecnologica direccionada a facilitar el acceso a herramientas que contribuyan al desarrollo y las necesidades de comunidades, especialmente en la ruralidad.
 
 # La Fábrica
 
