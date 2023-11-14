@@ -7,13 +7,13 @@ fecha: 14 de noviembre de 2023
 
 ## Un espacio tecnológico vital para la soberanía tecnológica
 
-La **Organización Civil AlterMundi** trae al Refugio Libertad este  espacio para la investigación, desarrollo y producción de tecnología, especialmente enfocado en facilitar el acceso a sectores como redes de conectividad comunitaria y agricultura familiar.
+La [Organización Civil AlterMundi](https://altermundi.net) trae al Refugio Libertad este  espacio para la investigación, desarrollo y producción de tecnología, especialmente enfocado en facilitar el acceso a sectores como redes de conectividad comunitaria y agricultura familiar.
 
 El Refu es tierra fértil para llevar adelante proyectos que contribuyen al buen vivir, al respeto por la diversidad, la produción y consumo responsables y sostenibles. Las Trabajadoras Unidas Por La Tierra nos invitan a aunar esfuerzos para, además de abordar problemáticas del acceso a la tecnología, generar empleos genuinos, que desarrollen nuevas capacidades en las personas e impulsen la innovación.
 
 ![_DSC6255](/assets/images/2023-11-14-fabrica-de-tecnologia-apropiada-para-la-economia-popular/HJKwWgbV6.jpg)
 
-En la actualidad hay un equipo de trabajo que viene fabricando y produciendo de manera distribuida tecnología apropiada. Junto a otras experiencias como **Tecnología de Raiz**, Altermundi viene acompañando procesos de investigación e innovacion tecnologica direccionada a facilitar el acceso a herramientas que contribuyan al desarrollo y las necesidades de comunidades, especialmente en la ruralidad.
+En la actualidad hay un equipo de trabajo que viene fabricando y produciendo de manera distribuida tecnología apropiada. Junto a otras experiencias como [Tecnología de Raiz](https:tdr.libre.org.ar), Altermundi viene acompañando procesos de investigación e innovacion tecnologica direccionada a facilitar el acceso a herramientas que contribuyan al desarrollo y las necesidades de comunidades, especialmente en la ruralidad.
 
 # La Fábrica
 
