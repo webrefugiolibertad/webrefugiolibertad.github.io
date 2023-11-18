@@ -3,6 +3,7 @@ title: Construyendo una nueva historia en el Refugio Libertad
 description: 'Las experiencias de las cooperativas La Fragua y Construyendo Futuro en la recuperación de edificios'
 date: 2023-11-18
 fecha: '18 de noviembre de 2023'
+youtube: true
 ---
 
 ## La experiencias de las cooperativas La Fragua y Construyendo Futuro en la recuperación de edificios
