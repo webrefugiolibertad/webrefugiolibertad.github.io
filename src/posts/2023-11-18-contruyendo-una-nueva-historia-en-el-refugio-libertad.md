@@ -9,6 +9,8 @@ fecha: '18 de noviembre de 2023'
 
 ![_DSC0043](/assets/images/2023-11-18-contruyendo-una-nueva-historia-en-el-refugio-libertad/r1YjqoXV6.jpg)
 
+{% youtube 'ixXgHt2XAoE', 'Recuperando edificios para nuevos emprendimientos productivos' %}
+
 Desde principios de junio de este año la **Cooperativa de Trabajo La Fragua** tuvo la oportunidad de compartir con  la **Asociación Semillitas de Libertad** y la **Cooperativa Construyendo Futuro** un proyecto muy importante de recuperación de espacios para el futuro funcionaniento de emprendimientos productivos. Si bien el proyecto tenía un aclance mayor, al suspenderse el financiamiento del Programa Desarrollo Armónico con Equilibrio Territorial de la nación,  solo pudimos avanzar en la recuperación de algunos galpones y el ex comedor de tropas, comenta Carlos de La Fragua.
 
 ![DJI_0695](/assets/images/2023-11-18-contruyendo-una-nueva-historia-en-el-refugio-libertad/SyxWTsmN6.jpg)
